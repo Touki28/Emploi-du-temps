@@ -1,0 +1,381 @@
+/* ========================================
+   CALENDRIER AKAKATSUKI
+   Style cohérent avec le thème général
+   ======================================== */
+
+/* ========== BOUTONS DE GROUPE ========== */
+.group-buttons {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 1rem;
+	padding: 1.5rem 0;
+}
+
+.group-btn {
+	padding: 0.8rem 2rem;
+	background: linear-gradient(135deg, rgba(244, 67, 54, 0.1) 0%, rgba(0, 0, 0, 0.6) 100%);
+	border: 2px solid rgba(244, 67, 54, 0.5);
+	color: #fff;
+	font-size: 1rem;
+	font-weight: bold;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	border-radius: 10px;
+	cursor: pointer;
+	transition: all 0.3s ease;
+	position: relative;
+	overflow: hidden;
+}
+
+.group-btn::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: -100%;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+	transition: left 0.4s ease;
+}
+
+.group-btn:hover::before {
+	left: 100%;
+}
+
+.group-btn:hover {
+	border-color: #f44336;
+	box-shadow: 0 0 20px rgba(244, 67, 54, 0.4);
+	transform: translateY(-2px);
+}
+
+.group-btn.selected {
+	background: linear-gradient(135deg, #f44336 0%, #8B0000 100%);
+	border-color: #ffd700;
+	color: #ffd700;
+	box-shadow: 
+		0 0 25px rgba(244, 67, 54, 0.5),
+		inset 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+/* ========== CONTRÔLES DE NAVIGATION ========== */
+.controls {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 2rem;
+	padding: 1.5rem 2rem;
+	flex-wrap: wrap;
+}
+
+.controls button {
+	background: linear-gradient(135deg, rgba(244, 67, 54, 0.2) 0%, rgba(0, 0, 0, 0.8) 100%);
+	color: #fff;
+	border: 2px solid #f44336;
+	padding: 0.9rem 1.8rem;
+	border-radius: 10px;
+	cursor: pointer;
+	font-size: 0.95rem;
+	font-weight: bold;
+	letter-spacing: 1px;
+	transition: all 0.3s ease;
+	box-shadow: 0 4px 15px rgba(244, 67, 54, 0.25);
+	position: relative;
+	overflow: hidden;
+}
+
+.controls button::after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: -100%;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+	transition: left 0.4s ease;
+}
+
+.controls button:hover::after {
+	left: 100%;
+}
+
+.controls button:hover {
+	background: linear-gradient(135deg, rgba(244, 67, 54, 0.4) 0%, rgba(139, 0, 0, 0.9) 100%);
+	border-color: #ffd700;
+	color: #ffd700;
+	transform: translateY(-3px);
+	box-shadow: 
+		0 8px 25px rgba(244, 67, 54, 0.4),
+		0 0 20px rgba(244, 67, 54, 0.2);
+}
+
+.controls button:active {
+	transform: translateY(-1px);
+}
+
+.week-label {
+	font-size: 1.5rem;
+	font-weight: bold;
+	color: #ffd700;
+	min-width: 180px;
+	text-align: center;
+	text-shadow: 0 0 15px rgba(255, 215, 0, 0.4);
+	letter-spacing: 2px;
+}
+
+/* ========== GRILLE DU CALENDRIER ========== */
+.calendar-grid {
+	display: grid;
+	grid-template-columns: repeat(6, 1fr);
+	gap: 1rem;
+	padding: 2rem;
+	max-width: 1600px;
+	margin: 0 auto;
+}
+
+/* ========== COLONNES DES JOURS ========== */
+.day-column {
+	background: linear-gradient(180deg, rgba(20, 5, 5, 0.9) 0%, rgba(10, 10, 10, 0.95) 100%);
+	border: 2px solid rgba(244, 67, 54, 0.3);
+	border-radius: 15px;
+	min-height: 500px;
+	display: flex;
+	flex-direction: column;
+	box-shadow: 
+		0 8px 25px rgba(0, 0, 0, 0.5),
+		inset 0 1px 0 rgba(255, 255, 255, 0.05);
+	transition: all 0.3s ease;
+	overflow: hidden;
+}
+
+.day-column:hover {
+	border-color: rgba(244, 67, 54, 0.6);
+	box-shadow: 
+		0 12px 35px rgba(0, 0, 0, 0.6),
+		0 0 30px rgba(244, 67, 54, 0.15);
+	transform: translateY(-3px);
+}
+
+/* ========== EN-TÊTE DU JOUR ========== */
+.day-header {
+	background: linear-gradient(135deg, #8B0000 0%, #4a0000 50%, #2a0000 100%);
+	padding: 1.2rem 1rem;
+	text-align: center;
+	border-bottom: 3px solid rgba(255, 215, 0, 0.3);
+	position: relative;
+	overflow: hidden;
+}
+
+.day-header::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: -100%;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(90deg, transparent, rgba(255, 215, 0, 0.1), transparent);
+	animation: headerShine 4s ease-in-out infinite;
+}
+
+@keyframes headerShine {
+	0%, 100% { left: -100%; }
+	50% { left: 100%; }
+}
+
+.day-header .day-name {
+	font-size: 1.1rem;
+	font-weight: bold;
+	color: #ffd700;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	margin-bottom: 0.3rem;
+}
+
+.day-header .day-date {
+	font-size: 0.95rem;
+	color: rgba(255, 255, 255, 0.85);
+	font-weight: 500;
+}
+
+/* ========== CONTAINER DES ÉVÉNEMENTS ========== */
+.events-container {
+	padding: 0.8rem;
+	flex: 1;
+	overflow-y: auto;
+	display: flex;
+	flex-direction: column;
+	gap: 0.6rem;
+}
+
+/* Scrollbar personnalisée */
+.events-container::-webkit-scrollbar {
+	width: 6px;
+}
+
+.events-container::-webkit-scrollbar-track {
+	background: rgba(244, 67, 54, 0.05);
+	border-radius: 3px;
+}
+
+.events-container::-webkit-scrollbar-thumb {
+	background: rgba(244, 67, 54, 0.3);
+	border-radius: 3px;
+}
+
+.events-container::-webkit-scrollbar-thumb:hover {
+	background: rgba(244, 67, 54, 0.5);
+}
+
+/* ========== CARTES D'ÉVÉNEMENT ========== */
+.event-card {
+	background: linear-gradient(135deg, rgba(244, 67, 54, 0.12) 0%, rgba(0, 0, 0, 0.4) 100%);
+	border: 1px solid rgba(244, 67, 54, 0.25);
+	border-left: 4px solid #f44336;
+	border-radius: 10px;
+	padding: 1rem;
+	transition: all 0.3s ease;
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+}
+
+.event-card::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(135deg, rgba(244, 67, 54, 0.15) 0%, transparent 50%);
+	opacity: 0;
+	transition: opacity 0.3s ease;
+}
+
+.event-card:hover::before {
+	opacity: 1;
+}
+
+.event-card:hover {
+	background: linear-gradient(135deg, rgba(244, 67, 54, 0.2) 0%, rgba(139, 0, 0, 0.3) 100%);
+	border-color: rgba(244, 67, 54, 0.5);
+	transform: translateX(5px) scale(1.02);
+	box-shadow: 
+		0 6px 20px rgba(0, 0, 0, 0.4),
+		0 0 15px rgba(244, 67, 54, 0.2);
+}
+
+.event-time {
+	font-size: 0.9rem;
+	color: #ffd700;
+	font-weight: bold;
+	margin-bottom: 0.5rem;
+	display: flex;
+	align-items: center;
+	gap: 0.4rem;
+	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.event-time::before {
+	content: '⏰';
+	font-size: 0.8rem;
+}
+
+.event-summary {
+	font-size: 0.95rem;
+	color: #fff;
+	margin-bottom: 0.4rem;
+	line-height: 1.4;
+	font-weight: 500;
+}
+
+.event-location {
+	font-size: 0.8rem;
+	color: rgba(255, 255, 255, 0.6);
+	font-style: italic;
+	display: flex;
+	align-items: center;
+	gap: 0.3rem;
+}
+
+/* ========== MESSAGE "PAS D'ÉVÉNEMENT" ========== */
+.no-events {
+	text-align: center;
+	color: rgba(244, 67, 54, 0.5);
+	padding: 2.5rem 1rem;
+	font-style: italic;
+	font-size: 0.9rem;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 0.8rem;
+}
+
+.no-events::before {
+	content: '☁️';
+	font-size: 2rem;
+	opacity: 0.5;
+}
+
+/* ========== RESPONSIVE ========== */
+@media (max-width: 1400px) {
+	.calendar-grid {
+		grid-template-columns: repeat(3, 1fr);
+		gap: 1rem;
+	}
+	
+	.day-column {
+		min-height: 400px;
+	}
+}
+
+@media (max-width: 900px) {
+	.calendar-grid {
+		grid-template-columns: repeat(2, 1fr);
+		padding: 1rem;
+	}
+	
+	.controls {
+		gap: 1rem;
+		padding: 1rem;
+	}
+	
+	.controls button {
+		padding: 0.7rem 1.2rem;
+		font-size: 0.85rem;
+	}
+	
+	.week-label {
+		font-size: 1.2rem;
+		min-width: 140px;
+	}
+}
+
+@media (max-width: 600px) {
+	.calendar-grid {
+		grid-template-columns: 1fr;
+	}
+	
+	.day-column {
+		min-height: 300px;
+	}
+	
+	.group-buttons {
+		gap: 0.6rem;
+	}
+	
+	.group-btn {
+		padding: 0.6rem 1.2rem;
+		font-size: 0.9rem;
+	}
+	
+	.controls {
+		flex-direction: column;
+		gap: 0.8rem;
+	}
+	
+	.controls button {
+		width: 100%;
+		max-width: 250px;
+	}
+}

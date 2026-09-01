@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Le Calendrier de l'Akakatsuki</title>
+
+	<link rel="icon" type="image/svg+xml" href="../img/Akatsuki-Logo.svg"/>
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="style-calendrier.css">
+</head>
+<body>
+
+<div class="animated-bg">
+	<div class="cloud"></div>
+	<div class="cloud"></div>
+	<div class="cloud"></div>
+</div>
+
+<div class="container">
+	<header>
+		<div class="logo-container">
+			<img src="../img/Akatsuki-Logo.svg" alt="Logo Akatsuki" class="logo">
+			<h1>Le Calendrier de l'Akakatsuki</h1>
+			<img src="../img/Akatsuki-Logo.svg" alt="Logo Akatsuki" class="logo">
+		</div>
+		<p class="subtitle">Les Douze Lunes du Nuage Rouge</p>
+	</header>
+
+	<main>
+		<div class="group-buttons">
+			<button class="group-btn selected" data-groupe="G1">G1</button>
+			<button class="group-btn"          data-groupe="G2">G2</button>
+		</div>
+
+		<div class="controls">
+			<button id="prevWeek">◀ Semaine précédente</button>
+			<span class="week-label" id="weekLabel"></span>
+			<button id="nextWeek">Semaine suivante ▶</button>
+		</div>
+		<div class="calendar-grid" id="calendar"></div>
+	</main>
+
+	<div class="button-container">
+		<button onclick="window.location.href='../../index.html';" class="button">
+			Accueil de l'Intranet
+		</button>
+	</div>
+
+	<footer>
+		<div class="footer-content">
+			<p class="copyright">
+				&copy; 2025 Akakatsuki Intranet - Organisation Secrète<br>
+				"Le monde connaîtra la douleur"
+			</p>
+		</div>
+	</footer>
+</div>
+
+<script src="calendrier.js"></script>
+
+<script src="style.js" defer></script>
+</body>
+</html>

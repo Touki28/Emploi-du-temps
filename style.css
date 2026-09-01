@@ -1,0 +1,473 @@
+/* ========================================
+   STYLE DE BASE
+   ======================================== */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Arial', sans-serif;
+	background: #0a0a0a;
+	color: #fff;
+	overflow-x: hidden;
+	min-height: 100vh;
+}
+
+/* ========================================
+   FOND ANIMÃ‰
+   ======================================== */
+
+/* NUAGES ROUGES */
+
+.animated-bg {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 0;
+	background: linear-gradient(135deg, #0a0a0a 0%, #1a0505 50%, #0a0a0a 100%);
+	overflow: hidden;
+}
+
+.cloud {
+	position: absolute;
+	background: radial-gradient(ellipse at center, rgba(255, 0, 0, 0.3) 0%, transparent 70%);
+	border-radius: 50%;
+	animation: float linear infinite;
+	opacity: 0.4;
+}
+
+.cloud:nth-child(1) {
+	width: 300px;
+	height: 150px;
+	top: 20%;
+	left: -300px;
+	animation-duration: 45s;
+}
+
+.cloud:nth-child(2) {
+	width: 250px;
+	height: 120px;
+	top: 50%;
+	left: -250px;
+	animation-duration: 60s;
+	animation-delay: 5s;
+}
+
+.cloud:nth-child(3) {
+	width: 200px;
+	height: 100px;
+	top: 70%;
+	left: -200px;
+	animation-duration: 55s;
+	animation-delay: 10s;
+}
+
+@keyframes float {
+	0% {
+		transform: translateX(0) translateY(0);
+	}
+	100% {
+		transform: translateX(calc(100vw + 300px)) translateY(-50px);
+	}
+}
+
+/* Particules de pluie rouge */
+.rain {
+	position: absolute;
+	width: 2px;
+	height: 50px;
+	background: linear-gradient(to bottom, transparent, rgba(255, 0, 0, 0.5));
+	animation: fall linear infinite;
+}
+
+@keyframes fall {
+	0% {
+		transform: translateY(-100px);
+		opacity: 1;
+	}
+	100% {
+		transform: translateY(100vh);
+		opacity: 0;
+	}
+}
+
+/* Container principal */
+.container {
+	position: relative;
+	z-index: 1;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+
+	/* 15 NUAGES EN FOND (Le 16Ã¨me est le lien cliquable en HTML, Ã  5% 5%) */
+	background-image:
+			url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'),
+			url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'),
+			url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'),
+			url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'),
+			url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png');
+
+	background-repeat: no-repeat;
+
+	background-position:
+			70% 85%, 10% 70%, 60% 60%, 50% 90%,
+			20% 40%, 90% 30%, 40% 15%, 85% 10%, 15% 95%,
+			30% 55%, 70% 20%, 5% 45%, 95% 75%, 35% 5%,
+			65% 95%;
+
+	background-size: 80px auto;
+}
+
+/* contrÃ´ler l'opacitÃ© des logos derriÃ¨re qq chose */
+.container::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+	
+	background-image:
+			url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'),
+			url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'),
+			url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'),
+			url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'),
+			url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png'), url('../img/Akatsuki-Logo.png');
+	
+	background-repeat: no-repeat;
+	
+	background-position:
+			70% 85%, 10% 70%, 60% 60%, 50% 90%,
+			20% 40%, 90% 30%, 40% 15%, 85% 10%, 15% 95%,
+			30% 55%, 70% 20%, 5% 45%, 95% 75%, 35% 5%,
+			65% 95%;
+	
+	background-size: 80px auto;
+
+	/* Transparence */
+	opacity: 0.03;
+	
+	/* enlÃ¨ve le blocage des clicks */
+	pointer-events: none;
+}
+
+/* ========================================
+   HEADER, FOOTER
+   ======================================== */
+
+/* Header */
+header {
+	background: linear-gradient(135deg, rgba(233, 69, 96, 0.2) 0%, rgba(0, 0, 0, 0.8) 100%);
+	backdrop-filter: blur(10px);
+	border-bottom: 3px solid #f44336;
+	filter: drop-shadow(0 0 30px #f44336);
+	padding: 2rem 0;
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+}
+
+header::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: -100%;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(90deg, transparent, rgba(233, 69, 96, 0.3), transparent);
+	animation: shine 3s infinite;
+}
+
+@keyframes shine {
+	0% { left: -100%; }
+	100% { left: 200%; }
+}
+
+/* Titres */
+h1 {
+	font-size: 4rem;
+	background: linear-gradient(45deg, #f44336, #d32f2f, #f44336);
+	background-size: 200% 200%;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	text-shadow: 0 0 30px #f44336;
+	animation: gradientShift 3s ease infinite;
+	font-weight: bold;
+	letter-spacing: 3px;
+}
+
+@keyframes gradientShift {
+	0%, 100% { background-position: 0% 50%; }
+	50% { background-position: 100% 50%; }
+}
+
+.subtitle {
+	color: #ffd700;
+	font-size: 1.3rem;
+	font-style: italic;
+	text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+	margin-top: 0.5rem;
+}
+
+/* Footer */
+footer {
+	background: rgba(0, 0, 0, 0.8);
+	border-top: 2px solid #f44336;
+	padding: 2rem;
+	text-align: center;
+	margin-top: auto;
+}
+
+.footer-content {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.copyright {
+	color: #888;
+	font-size: 0.9rem;
+}
+
+/* ========================================
+   BOUTON
+   ======================================== */
+
+.button-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 3rem 2rem;
+	margin: 2rem 0;
+}
+
+.button {
+	background: linear-gradient(135deg, rgba(244, 67, 54, 0.2) 0%, rgba(0, 0, 0, 0.8) 100%);
+	backdrop-filter: blur(10px);
+	color: #fff;
+	border: 2px solid #f44336;
+	padding: 1rem 2.5rem;
+	font-size: 1.1rem;
+	font-weight: bold;
+	border-radius: 12px;
+	cursor: pointer;
+	transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+	text-decoration: none;
+	display: inline-flex;
+	align-items: center;
+	gap: 0.8rem;
+	position: relative;
+	overflow: hidden;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	box-shadow: 0 4px 15px rgba(244, 67, 54, 0.3);
+}
+
+/* Effet de brillance au survol */
+.button::after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: -100%;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+	transition: left 0.5s ease;
+}
+
+.button:hover::after {
+	left: 100%;
+}
+
+.button:hover {
+	background: linear-gradient(135deg, rgba(244, 67, 54, 0.4) 0%, rgba(139, 0, 0, 0.9) 100%);
+	border-color: #ffd700;
+	transform: translateY(-3px) scale(1.05);
+	box-shadow: 
+		0 8px 25px rgba(244, 67, 54, 0.5),
+		0 0 30px rgba(244, 67, 54, 0.3);
+	color: #ffd700;
+}
+
+.button:hover::before {
+	transform: translateX(5px) rotate(10deg);
+}
+
+.button:active {
+	transform: translateY(-1px) scale(1.02);
+	box-shadow: 0 4px 15px rgba(244, 67, 54, 0.4);
+}
+
+/* Animation de pulsation douce */
+@keyframes softPulse {
+	0%, 100% {
+		box-shadow: 0 4px 15px rgba(244, 67, 54, 0.3);
+	}
+	50% {
+		box-shadow: 0 4px 20px rgba(244, 67, 54, 0.5);
+	}
+}
+
+.button {
+	animation: softPulse 3s ease-in-out infinite;
+}
+
+/* ========================================
+   LOGOS
+   ======================================== */
+
+.logo-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 2rem;
+	margin-bottom: 1rem;
+}
+
+.logo {
+	width: 90px;
+	height: auto;
+	margin-bottom: 20px;
+	animation: pulse 2s infinite;
+	filter: drop-shadow(0 0 10px #f44336);
+}
+
+@keyframes pulse {
+	0%, 100% { transform: scale(1); opacity: 1; }
+	50% { transform: scale(1.1); opacity: 0.8; }
+}
+
+/* -------------------------------------------------------- */
+/* --- STYLES SPÃ‰CIFIQUES Ã€ LA POP-UP (MODALE) DE CONNEXION */
+/* -------------------------------------------------------- */
+
+.modal {
+	display: none;
+	position: fixed;
+	z-index: 9999;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.8);
+	backdrop-filter: blur(5px);
+}
+
+.modal-content {
+	background: linear-gradient(135deg, #1a0505 0%, #0a0a0a 100%);
+	border: 3px solid #f44336;
+	margin: 10% auto;
+	padding: 2rem;
+	width: 90%;
+	max-width: 400px;
+	border-radius: 15px;
+	box-shadow: 0 0 50px rgba(244, 67, 54, 0.5);
+	position: relative;
+}
+
+.modal-content h2 {
+	color: #f44336;
+	text-align: center;
+	margin-bottom: 1.5rem;
+	font-size: 1.8rem;
+}
+
+.modal-content input {
+	width: 100%;
+	padding: 1rem;
+	margin-bottom: 1rem;
+	background: rgba(255, 255, 255, 0.1);
+	border: 2px solid rgba(244, 67, 54, 0.5);
+	border-radius: 8px;
+	color: #fff;
+	font-size: 1rem;
+}
+
+.modal-content input:focus {
+	outline: none;
+	border-color: #f44336;
+	box-shadow: 0 0 10px rgba(244, 67, 54, 0.5);
+}
+
+.modal-content button {
+	width: 100%;
+	padding: 1rem;
+	background: linear-gradient(135deg, #f44336 0%, #d32f2f 100%);
+	color: #fff;
+	border: none;
+	border-radius: 8px;
+	font-size: 1.1rem;
+	font-weight: bold;
+	cursor: pointer;
+	transition: all 0.3s;
+}
+
+.modal-content button:hover {
+	background: linear-gradient(135deg, #ff6b6b 0%, #f44336 100%);
+	box-shadow: 0 5px 15px rgba(244, 67, 54, 0.5);
+}
+
+.close {
+	color: #f44336;
+	position: absolute;
+	right: 1rem;
+	top: 1rem;
+	font-size: 2rem;
+	font-weight: bold;
+	cursor: pointer;
+	transition: all 0.3s;
+}
+
+.close:hover {
+	color: #ffd700;
+	transform: rotate(90deg);
+}
+
+.error-msg {
+	color: #ff6b6b;
+	text-align: center;
+	margin-top: 1rem;
+}
+
+/* ============================
+   ðŸ“± RESPONSIVE - MOBILE
+   ============================ */
+@media (max-width: 768px) {
+
+	/* TITRE */
+	h1 {
+		font-size: 2.5rem;
+	}
+
+	/* LOGO */
+	.logo {
+		width: 70px;
+		height: 70px;
+	}
+
+	/* GRILLE NAV */
+	.nav-grid {
+		grid-template-columns: 1fr;
+	}
+
+	/* CITATION */
+	.quote {
+		font-size: 1.2rem;
+	}
+
+	/* BOUTON */
+	.button-container {
+		padding: 2rem 1rem;
+	}
+
+	.button {
+		padding: 0.9rem 2rem;
+		font-size: 1rem;
+	}
+}
