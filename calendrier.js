@@ -1,63 +1,52 @@
-// Variables globales
+// ========================================
+// EMPLOI DU TEMPS — L3 Informatique, Groupe A
+// ========================================
+
+const ICS_FILENAME = 'emploi-du-temps.ics'; // mis à jour automatiquement (GitHub Action)
+
 let allEvents = [];
 let currentWeek = null;
-let currentGroup = 'G1'; // Groupe par défaut
+let currentYear = new Date().getFullYear();
 
-// ===== GESTION DES BOUTONS DE GROUPE =====
-const buttons = document.querySelectorAll(".group-btn");
+// ===== CHARGEMENT DU FICHIER ICS =====
+async function loadICS() {
+	// cache-busting pour toujours récupérer la dernière version publiée
+	const url = `${ICS_FILENAME}?t=${Date.now()}`;
+	const res = await fetch(url, { cache: 'no-store' });
 
-buttons.forEach(btn => {
-	btn.addEventListener("click", async () => {
-		const selectedGroup = btn.dataset.groupe;
-		
-		// Si c'est déjà le groupe sélectionné, ne rien faire
-		if (selectedGroup === currentGroup) return;
-		
-		// Mise à jour visuelle
-		buttons.forEach(b => b.classList.remove("selected"));
-		btn.classList.add("selected");
-		
-		// Mise à jour du groupe
-		currentGroup = selectedGroup;
-		console.log("📅 Chargement du groupe :", currentGroup);
-		
-		// Recharger les événements
-		await loadAndDisplayICS(currentGroup);
-	});
-});
-
-// ===== CHARGEMENT DES FICHIERS ICS =====
-async function loadICS(group) {
-	const filename = `emploi-du-temps-${group}.ics`;
-	const res = await fetch(`../emploi-du-temps/${filename}`);
-	
 	if (!res.ok) {
-		console.error(`❌ Erreur de chargement du fichier ${filename}`);
+		console.error(`❌ Impossible de charger ${ICS_FILENAME}`);
 		return [];
 	}
-	
+
 	const icsText = await res.text();
 	const events = parseICS(icsText);
 	return events.sort((a, b) => a.start - b.start);
 }
 
-async function loadAndDisplayICS(group) {
-	const events = await loadICS(group);
-	allEvents = events;
-	
-	if (events.length > 0) {
-		// Si on n'a pas encore de semaine, prendre la semaine actuelle
-		if (!currentWeek) {
-			currentWeek = getWeekNumber(new Date());
-		}
-		displayWeek(allEvents, currentWeek);
-	} else {
-		document.getElementById('calendar').innerHTML = `
-			<div style="grid-column: 1/-1; text-align: center; padding: 3rem; color: #e94560;">
-				❌ Aucun événement trouvé pour le groupe ${group}
-			</div>
-		`;
+async function loadAndDisplay() {
+	const rawEvents = await loadICS();
+	allEvents = rawEvents.filter(isGroupAEvent);
+
+	if (!currentWeek) {
+		currentWeek = getWeekNumber(new Date());
+		currentYear = new Date().getFullYear();
 	}
+	displayWeek(currentWeek, currentYear);
+}
+
+// ===== FILTRAGE GROUPE A (exclut GrB/GrC seuls + options) =====
+function isGroupAEvent(ev) {
+	const s = ev.summary || '';
+
+	// Exclut les options (OPT1, OPT2...) : non suivies en alternance
+	if (/OPT\d/i.test(s)) return false;
+
+	// Si l'événement mentionne un/des groupe(s), il faut que GrA en fasse partie
+	const hasGroupTag = /Gr[A-Z]\b/.test(s);
+	if (hasGroupTag && !/\bGrA\b/.test(s)) return false;
+
+	return true;
 }
 
 // ===== PARSING ICS =====
@@ -66,60 +55,78 @@ function parseICS(text) {
 	const events = [];
 	let current = null;
 
-	for (let line of lines) {
-		line = line.trim();
+	for (let rawLine of lines) {
+		const line = rawLine.trim();
 		if (line === 'BEGIN:VEVENT') {
 			current = {};
 		} else if (line === 'END:VEVENT' && current) {
-			if (current.start && current.summary && !current.uid?.includes('COURSANNULE') && !current.uid?.includes('Ferie')) {
+			if (
+				current.start &&
+				current.summary &&
+				!current.uid?.includes('COURSANNULE') &&
+				!current.uid?.includes('Ferie')
+			) {
+				current.details = parseDescription(current.description || '');
 				events.push(current);
 			}
 			current = null;
 		} else if (current) {
 			if (line.startsWith('DTSTART')) current.start = parseICSDate(line);
 			if (line.startsWith('DTEND')) current.end = parseICSDate(line);
-			if (line.startsWith('SUMMARY')) current.summary = line.split(':')[1];
-			if (line.startsWith('LOCATION')) current.location = line.split(':')[1];
-			if (line.startsWith('UID')) current.uid = line.split(':')[1];
+			if (line.startsWith('SUMMARY')) current.summary = unescapeICS(line.split(':').slice(1).join(':'));
+			if (line.startsWith('LOCATION')) current.location = unescapeICS(line.split(':').slice(1).join(':'));
+			if (line.startsWith('DESCRIPTION')) current.description = unescapeICS(line.split(':').slice(1).join(':'));
+			if (line.startsWith('UID')) current.uid = line.split(':').slice(1).join(':');
 		}
 	}
 	return events;
 }
 
+function unescapeICS(str) {
+	return str.replace(/\\n/g, '\n').replace(/\\,/g, ',').replace(/\\;/g, ';').replace(/\\\\/g, '\\');
+}
+
+// Extrait les champs "Label : valeur" du DESCRIPTION (Matière, Enseignant, Salle, Type...)
+function parseDescription(desc) {
+	const details = {};
+	desc.split('\n').forEach(line => {
+		const idx = line.indexOf(':');
+		if (idx === -1) return;
+		const label = line.slice(0, idx).trim().toLowerCase();
+		const value = line.slice(idx + 1).trim();
+		if (!value) return;
+		if (label.startsWith('matière')) details.matiere = value;
+		else if (label.startsWith('enseignant')) details.enseignant = value;
+		else if (label.startsWith('salle')) details.salle = value;
+		else if (label.startsWith('type')) details.type = value;
+	});
+	return details;
+}
+
 function parseICSDate(line) {
-	const [meta, value] = line.split(':');
+	const [meta, ...rest] = line.split(':');
+	const value = rest.join(':');
 	if (!value) return null;
 
-	// Format UTC (finit par Z)
-	if (value.endsWith('Z')) {
-		const year = +value.slice(0, 4);
-		const month = +value.slice(4, 6) - 1;
-		const day = +value.slice(6, 8);
-		const hour = +value.slice(9, 11);
-		const minute = +value.slice(11, 13);
-		return new Date(Date.UTC(year, month, day, hour, minute));
-	}
-
-	// Format avec fuseau horaire explicite (Europe/Paris)
-	if (meta.includes('TZID=Europe/Paris')) {
-		const year = +value.slice(0, 4);
-		const month = +value.slice(4, 6) - 1;
-		const day = +value.slice(6, 8);
-		const hour = +value.slice(9, 11);
-		const minute = +value.slice(11, 13);
-		return new Date(year, month, day, hour, minute);
-	}
-
-	// Sinon, on suppose que c'est une heure locale
 	const year = +value.slice(0, 4);
 	const month = +value.slice(4, 6) - 1;
 	const day = +value.slice(6, 8);
+
+	if (value.length <= 8) {
+		// Date seule (journée entière) — utilisé pour Vacances/Fériés, déjà exclus
+		return new Date(year, month, day);
+	}
+
 	const hour = +value.slice(9, 11);
 	const minute = +value.slice(11, 13);
+
+	if (value.endsWith('Z')) {
+		return new Date(Date.UTC(year, month, day, hour, minute));
+	}
 	return new Date(year, month, day, hour, minute);
 }
 
-// ===== GESTION DES SEMAINES =====
+// ===== GESTION DES SEMAINES (ISO) =====
 function getWeekNumber(date) {
 	const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
 	const dayNum = d.getUTCDay() || 7;
@@ -137,9 +144,9 @@ function getWeekDays(weekNumber, year) {
 	} else {
 		ISOweekStart.setDate(simple.getDate() + 8 - simple.getDay());
 	}
-	
+
 	const days = [];
-	for (let i = 0; i < 6; i++) {
+	for (let i = 0; i < 5; i++) { // Lundi -> Vendredi
 		const day = new Date(ISOweekStart);
 		day.setDate(ISOweekStart.getDate() + i);
 		days.push(day);
@@ -147,52 +154,182 @@ function getWeekDays(weekNumber, year) {
 	return days;
 }
 
-// ===== AFFICHAGE DU CALENDRIER =====
-function displayWeek(events, week) {
-	const container = document.getElementById('calendar');
-	container.innerHTML = '';
-	
-	const year = new Date().getFullYear();
-	const weekDays = getWeekDays(week, year);
-	
+function toISODate(date) {
+	const y = date.getFullYear();
+	const m = String(date.getMonth() + 1).padStart(2, '0');
+	const d = String(date.getDate()).padStart(2, '0');
+	return `${y}-${m}-${d}`;
+}
+
+// Toutes les heures du .ics sont en UTC : on affiche/compare toujours en heure de Paris
+function parisDateKey(date) {
+	return date.toLocaleDateString('en-CA', { timeZone: 'Europe/Paris' }); // YYYY-MM-DD
+}
+
+// Un événement (issu du .ics, en UTC) tombe-t-il sur ce jour de la grille (heure de Paris) ?
+function isSameDay(eventDate, weekDay) {
+	return parisDateKey(eventDate) === toISODate(weekDay);
+}
+
+// "Aujourd'hui" = date locale du visiteur (ce qu'il voit sur son propre appareil)
+function isToday(weekDay) {
+	return toISODate(weekDay) === toISODate(new Date());
+}
+
+// ===== ALTERNANCE : lecture des données figées =====
+function getAlternanceForDay(date) {
+	return (typeof ALTERNANCE !== 'undefined' && ALTERNANCE[toISODate(date)]) || null;
+}
+
+// Détermine le statut dominant de la semaine (pour le bandeau)
+function getWeekAlternanceSummary(weekDays) {
+	const entries = weekDays.map(getAlternanceForDay).filter(Boolean);
+	if (entries.length === 0) return null;
+
+	const allEntreprise = entries.every(e => e.alt === 'Entreprise');
+
+	// Compte des types pour trouver le type dominant
+	const typeCounts = {};
+	entries.forEach(e => {
+		const key = e.type || '(aucun)';
+		typeCounts[key] = (typeCounts[key] || 0) + 1;
+	});
+	const dominantType = Object.entries(typeCounts).sort((a, b) => b[1] - a[1])[0][0];
+
+	const altCounts = {};
+	entries.forEach(e => {
+		if (e.alt) altCounts[e.alt] = (altCounts[e.alt] || 0) + 1;
+	});
+	const dominantAlt = Object.entries(altCounts).sort((a, b) => b[1] - a[1])[0]?.[0] || '';
+
+	return { entries, allEntreprise, dominantType, dominantAlt };
+}
+
+function badgeInfoFor(summary) {
+	const { dominantType, dominantAlt } = summary;
+
+	if (dominantType.startsWith('Examens') || dominantType.startsWith('Exams')) {
+		return { icon: '📝', label: dominantType, cls: 'badge-examens' };
+	}
+	if (dominantType === 'Vacances') {
+		return { icon: '🌴', label: 'Vacances', cls: 'badge-vacances' };
+	}
+	if (dominantType === 'Stage') {
+		return { icon: '💼', label: 'Stage', cls: 'badge-stage' };
+	}
+	if (dominantType.startsWith('Soutenances')) {
+		return { icon: '🎓', label: 'Soutenances', cls: 'badge-stage' };
+	}
+	if (dominantType === 'Férié') {
+		return { icon: '🎌', label: 'Férié', cls: 'badge-ferie' };
+	}
+	if (dominantAlt === 'Entreprise') {
+		return { icon: '🏢', label: 'Semaine Entreprise', cls: 'badge-entreprise' };
+	}
+	if (dominantAlt === 'Université') {
+		return { icon: '🎓', label: 'Semaine Université', cls: 'badge-universite' };
+	}
+	return null;
+}
+
+// ===== AFFICHAGE =====
+function displayWeek(week, year) {
 	document.getElementById('weekLabel').textContent = `Semaine ${week}`;
 
-	const dayNames = ['Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi'];
+	const weekDays = getWeekDays(week, year);
+	const summary = getWeekAlternanceSummary(weekDays);
+	renderBanner(summary);
+
+	const calendarEl = document.getElementById('calendar');
+
+	// Semaine entièrement en entreprise -> pas de grille
+	if (summary && summary.allEntreprise) {
+		const label = badgeInfoFor(summary);
+		calendarEl.innerHTML = `
+			<div class="entreprise-week" style="grid-column: 1/-1;">
+				<span class="big-icon">🏢</span>
+				<p>${label ? label.label : 'Semaine en entreprise'} — pas de cours cette semaine.</p>
+			</div>
+		`;
+		return;
+	}
+
+	renderCalendarGrid(weekDays);
+}
+
+function renderBanner(summary) {
+	const el = document.getElementById('alternanceBanner');
+	if (!summary) {
+		el.innerHTML = '';
+		return;
+	}
+	const info = badgeInfoFor(summary);
+	if (!info) {
+		el.innerHTML = '';
+		return;
+	}
+	const obs = summary.entries.map(e => e.obs).filter(Boolean)[0] || '';
+	el.innerHTML = `
+		<div class="alternance-badge ${info.cls}">
+			<span>${info.icon}</span>
+			<span>${info.label}</span>
+			${obs ? `<span class="obs">— ${obs}</span>` : ''}
+		</div>
+	`;
+}
+
+function renderCalendarGrid(weekDays) {
+	const container = document.getElementById('calendar');
+	container.innerHTML = '';
+
+	const dayNames = ['Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi'];
+	const today = new Date();
 
 	weekDays.forEach((date, index) => {
+		const dayAlt = getAlternanceForDay(date);
+		const isNormalUniDay = !dayAlt || (dayAlt.type === 'Enseignements' && dayAlt.alt === 'Université');
+
 		const dayColumn = document.createElement('div');
 		dayColumn.className = 'day-column';
+		if (isToday(date)) dayColumn.classList.add('today');
+		if (!isNormalUniDay) dayColumn.classList.add('special-day');
 
 		const dayHeader = document.createElement('div');
 		dayHeader.className = 'day-header';
 		dayHeader.innerHTML = `
 			<div class="day-name">${dayNames[index]}</div>
 			<div class="day-date">${date.getDate()}/${date.getMonth() + 1}</div>
+			${!isNormalUniDay ? `<span class="day-tag">${dayTagLabel(dayAlt)}</span>` : ''}
 		`;
 		dayColumn.appendChild(dayHeader);
 
 		const eventsContainer = document.createElement('div');
 		eventsContainer.className = 'events-container';
 
-		const dayEvents = events.filter(e => e.start.toDateString() === date.toDateString())
-								.sort((a, b) => a.start - b.start);
+		const dayEvents = allEvents
+			.filter(e => isSameDay(e.start, date))
+			.sort((a, b) => a.start - b.start);
 
 		if (dayEvents.length === 0) {
 			const noEvents = document.createElement('div');
-			noEvents.className = 'no-events';
-			noEvents.textContent = 'Le sang a assez coulé';
+			noEvents.className = 'no-events' + (!isNormalUniDay ? ' day-off' : '');
+			noEvents.textContent = !isNormalUniDay ? dayTagLabel(dayAlt) : 'Aucun cours';
 			eventsContainer.appendChild(noEvents);
 		} else {
 			dayEvents.forEach(ev => {
+				const d = ev.details || {};
+				const type = (d.type || '').toLowerCase();
 				const eventCard = document.createElement('div');
-				eventCard.className = 'event-card';
+				eventCard.className = 'event-card' + (type ? ` type-${type}` : '');
 				eventCard.innerHTML = `
 					<div class="event-time">
-						${ev.start.toLocaleTimeString('fr-FR', {hour: '2-digit', minute: '2-digit'})} 
-						- ${ev.end.toLocaleTimeString('fr-FR', {hour: '2-digit', minute: '2-digit'})}
+						${ev.start.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Paris' })}
+						– ${ev.end.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Paris' })}
+						${d.type ? ` · ${d.type}` : ''}
 					</div>
-					<div class="event-summary">${ev.summary}</div>
-					${ev.location ? `<div class="event-location">📍 ${ev.location}</div>` : ''}
+					<div class="event-summary">${d.matiere || ev.summary}</div>
+					${d.enseignant ? `<div class="event-teacher">${d.enseignant}</div>` : ''}
+					${d.salle ? `<div class="event-location">📍 ${d.salle}</div>` : ''}
 				`;
 				eventsContainer.appendChild(eventCard);
 			});
@@ -203,16 +340,35 @@ function displayWeek(events, week) {
 	});
 }
 
-// ===== NAVIGATION SEMAINE =====
-document.getElementById('prevWeek').addEventListener('click', () => {
-	currentWeek--;
-	displayWeek(allEvents, currentWeek);
-});
+function dayTagLabel(dayAlt) {
+	if (!dayAlt) return '';
+	if (dayAlt.type === 'Vacances') return 'Vacances';
+	if (dayAlt.type === 'Férié') return 'Férié';
+	if (dayAlt.type === 'Stage') return 'Stage';
+	if (dayAlt.type && dayAlt.type.startsWith('Soutenances')) return 'Soutenances';
+	if (dayAlt.type && (dayAlt.type.startsWith('Examens') || dayAlt.type.startsWith('Exams'))) return dayAlt.type;
+	if (dayAlt.alt === 'Entreprise') return 'Entreprise';
+	return dayAlt.type || dayAlt.alt || '';
+}
 
-document.getElementById('nextWeek').addEventListener('click', () => {
-	currentWeek++;
-	displayWeek(allEvents, currentWeek);
+// ===== NAVIGATION SEMAINE =====
+function goToWeek(delta) {
+	currentWeek += delta;
+	// Gestion simple du changement d'année si on dépasse 1 ou 52/53
+	const daysCheck = getWeekDays(currentWeek, currentYear);
+	if (daysCheck[0].getFullYear() !== currentYear) {
+		currentYear = daysCheck[0].getFullYear();
+	}
+	displayWeek(currentWeek, currentYear);
+}
+
+document.getElementById('prevWeek').addEventListener('click', () => goToWeek(-1));
+document.getElementById('nextWeek').addEventListener('click', () => goToWeek(1));
+document.getElementById('todayBtn').addEventListener('click', () => {
+	currentWeek = getWeekNumber(new Date());
+	currentYear = new Date().getFullYear();
+	displayWeek(currentWeek, currentYear);
 });
 
 // ===== CHARGEMENT INITIAL =====
-loadAndDisplayICS(currentGroup);
+loadAndDisplay();

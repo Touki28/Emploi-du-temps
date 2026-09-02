@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Emploi du temps — L3 Informatique</title>
+
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="style-calendrier.css">
+</head>
+<body>
+
+<div class="container">
+	<header>
+		<div class="logo-container">
+			<h1>Emploi du temps</h1>
+		</div>
+		<p class="subtitle">L3 Informatique — Groupe A</p>
+	</header>
+
+	<main>
+		<div class="controls">
+			<button id="prevWeek" aria-label="Semaine précédente">◀ Précédente</button>
+			<div class="week-info">
+				<span class="week-label" id="weekLabel"></span>
+				<button id="todayBtn">Aujourd'hui</button>
+			</div>
+			<button id="nextWeek" aria-label="Semaine suivante">Suivante ▶</button>
+		</div>
+
+		<div class="alternance-banner" id="alternanceBanner"></div>
+
+		<div class="calendar-grid" id="calendar"></div>
+	</main>
+
+	<footer>
+		<div class="footer-content">
+			<p class="copyright">
+				Emploi du temps généré depuis Hyperplanning — IUT Le Havre Normandie<br>
+				Mis à jour automatiquement
+			</p>
+		</div>
+	</footer>
+</div>
+
+<script src="alternance-data.js"></script>
+<script src="calendrier.js"></script>
+</body>
+</html>
