@@ -6,7 +6,6 @@ const ICS_FILENAME = 'emploi-du-temps.ics'; // mis à jour automatiquement (GitH
 
 let allEvents = [];
 let currentWeek = null;
-let currentYear = new Date().getFullYear();
 
 // ===== CHARGEMENT DU FICHIER ICS =====
 async function loadICS() {
@@ -30,9 +29,8 @@ async function loadAndDisplay() {
 
 	if (!currentWeek) {
 		currentWeek = getWeekNumber(new Date());
-		currentYear = new Date().getFullYear();
 	}
-	displayWeek(currentWeek, currentYear);
+	displayWeek(currentWeek);
 }
 
 // ===== FILTRAGE GROUPE A (exclut GrB/GrC seuls + options) =====
@@ -233,10 +231,10 @@ function badgeInfoFor(summary) {
 }
 
 // ===== AFFICHAGE =====
-function displayWeek(week, year) {
+function displayWeek(week) {
 	document.getElementById('weekLabel').textContent = `Semaine ${week}`;
 
-	const weekDays = getWeekDays(week, year);
+	const weekDays = getWeekDays(week);
 	const summary = getWeekAlternanceSummary(weekDays);
 	renderBanner(summary);
 
@@ -363,15 +361,14 @@ function goToWeek(delta) {
         currentWeek = 1;
     }
 
-    displayWeek(currentWeek, currentYear);
+    displayWeek(currentWeek);
 }
 
 document.getElementById('prevWeek').addEventListener('click', () => goToWeek(-1));
 document.getElementById('nextWeek').addEventListener('click', () => goToWeek(1));
 document.getElementById('todayBtn').addEventListener('click', () => {
 	currentWeek = getWeekNumber(new Date());
-	currentYear = new Date().getFullYear();
-	displayWeek(currentWeek, currentYear);
+	displayWeek(currentWeek);
 });
 
 // ===== CHARGEMENT INITIAL =====
