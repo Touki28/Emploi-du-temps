@@ -1,0 +1,46 @@
+name: 🔄 Mise à jour automatique de l'emploi du temps
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-emploi:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🛎️ Cloner le dépôt
+        uses: actions/checkout@v4
+
+      - name: 📁 Créer le répertoire si nécessaire
+        run: |
+          mkdir -p src/emploi-du-temps
+
+      - name: 📥 Télécharger les fichiers ICS G1 et G2
+        run: |
+          echo "📥 Téléchargement de l'emploi du temps G1..."
+          curl -L -o src/emploi-du-temps/emploi-du-temps-G1.ics \
+            "https://hplanning.univ-lehavre.fr/Telechargements/ical/Edt_INFOG1.ics?version=2022.0.5.0&idICal=4B80C98DBFC3B008B2D05301CB645CA9&param=643d5b312e2e36325d2666683d3126663d31"
+
+          echo "📥 Téléchargement de l'emploi du temps G2..."
+          curl -L -o src/emploi-du-temps/emploi-du-temps-G2.ics \
+            "https://hplanning.univ-lehavre.fr/Telechargements/ical/Edt_INFOG2.ics?version=2022.0.5.0&idICal=44AB2688C2CC0095C8BC88B7F49766AD&param=643d5b312e2e36325d2666683d3126663d31"
+
+      - name: 💾 Commit et push si modification
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add src/emploi-du-temps/emploi-du-temps-G1.ics
+          git add src/emploi-du-temps/emploi-du-temps-G2.ics
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Mise à jour automatique de l'emploi du temps"
+            git push
+          else
+            echo "Aucune modification détectée"
+          fi
