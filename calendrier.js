@@ -6,7 +6,6 @@ const ICS_FILENAME = 'emploi-du-temps.ics'; // mis à jour automatiquement (GitH
 
 let allEvents = [];
 let currentWeek = null;
-let currentYear = new Date().getFullYear();
 
 // ===== CHARGEMENT DU FICHIER ICS =====
 async function loadICS() {
@@ -30,9 +29,8 @@ async function loadAndDisplay() {
 
 	if (!currentWeek) {
 		currentWeek = getWeekNumber(new Date());
-		currentYear = new Date().getFullYear();
 	}
-	displayWeek(currentWeek, currentYear);
+	displayWeek(currentWeek);
 }
 
 // ===== FILTRAGE GROUPE A (exclut GrB/GrC seuls + options) =====
@@ -135,8 +133,8 @@ function getWeekNumber(date) {
 	return Math.ceil((((d - yearStart) / 86400000) + 1) / 7);
 }
 
-function getWeekDays(weekNumber, year) {
-	const simple = new Date(year, 0, 1 + (weekNumber - 1) * 7);
+function getWeekDays(weekNumber) {
+	const simple = new Date(2026, 0, 1 + (weekNumber - 1) * 7);
 	const dow = simple.getDay();
 	const ISOweekStart = simple;
 	if (dow <= 4) {
@@ -233,10 +231,10 @@ function badgeInfoFor(summary) {
 }
 
 // ===== AFFICHAGE =====
-function displayWeek(week, year) {
+function displayWeek(week) {
 	document.getElementById('weekLabel').textContent = `Semaine ${week}`;
 
-	const weekDays = getWeekDays(week, year);
+	const weekDays = getWeekDays(week);
 	const summary = getWeekAlternanceSummary(weekDays);
 	renderBanner(summary);
 
@@ -355,19 +353,15 @@ function dayTagLabel(dayAlt) {
 function goToWeek(delta) {
 	currentWeek += delta;
 	// Gestion simple du changement d'année si on dépasse 1 ou 52/53
-	const daysCheck = getWeekDays(currentWeek, currentYear);
-	if (daysCheck[0].getFullYear() !== currentYear) {
-		currentYear = daysCheck[0].getFullYear();
-	}
-	displayWeek(currentWeek, currentYear);
+	const daysCheck = getWeekDays(currentWeek);
+	displayWeek(currentWeek);
 }
 
 document.getElementById('prevWeek').addEventListener('click', () => goToWeek(-1));
 document.getElementById('nextWeek').addEventListener('click', () => goToWeek(1));
 document.getElementById('todayBtn').addEventListener('click', () => {
 	currentWeek = getWeekNumber(new Date());
-	currentYear = new Date().getFullYear();
-	displayWeek(currentWeek, currentYear);
+	displayWeek(currentWeek);
 });
 
 // ===== CHARGEMENT INITIAL =====
