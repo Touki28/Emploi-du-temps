@@ -356,9 +356,6 @@ function goToWeek(delta) {
 	currentWeek += delta;
 	// Gestion simple du changement d'année si on dépasse 1 ou 52/53
 	const daysCheck = getWeekDays(currentWeek, currentYear);
-	if (daysCheck[0].getFullYear() !== currentYear) {
-		currentYear = daysCheck[0].getFullYear();
-	}
 	displayWeek(currentWeek, currentYear);
 }
 
