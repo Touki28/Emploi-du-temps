@@ -6,6 +6,7 @@ const ICS_FILENAME = 'emploi-du-temps.ics'; // mis à jour automatiquement (GitH
 
 let allEvents = [];
 let currentWeek = null;
+let currentYear = new Date().getFullYear();
 
 // ===== CHARGEMENT DU FICHIER ICS =====
 async function loadICS() {
@@ -29,8 +30,9 @@ async function loadAndDisplay() {
 
 	if (!currentWeek) {
 		currentWeek = getWeekNumber(new Date());
+		currentYear = new Date().getFullYear();
 	}
-	displayWeek(currentWeek);
+	displayWeek(currentWeek, currentYear);
 }
 
 // ===== FILTRAGE GROUPE A (exclut GrB/GrC seuls + options) =====
@@ -133,27 +135,23 @@ function getWeekNumber(date) {
 	return Math.ceil((((d - yearStart) / 86400000) + 1) / 7);
 }
 
-function getWeekDays(weekNumber) {
-    const currentYear = new Date().getFullYear();
-    const simple = new Date(currentYear, 0, 1 + (weekNumber - 1) * 7);
-    const dow = simple.getDay();
-    const ISOweekStart = simple;
+function getWeekDays(weekNumber, year) {
+	const simple = new Date(year, 0, 1 + (weekNumber - 1) * 7);
+	const dow = simple.getDay();
+	const ISOweekStart = simple;
+	if (dow <= 4) {
+		ISOweekStart.setDate(simple.getDate() - simple.getDay() + 1);
+	} else {
+		ISOweekStart.setDate(simple.getDate() + 8 - simple.getDay());
+	}
 
-    if (dow <= 4) {
-        ISOweekStart.setDate(simple.getDate() - simple.getDay() + 1);
-    } else {
-        ISOweekStart.setDate(simple.getDate() + 8 - simple.getDay());
-    }
-
-    const days = [];
-
-    for (let i = 0; i < 5; i++) {
-        const day = new Date(ISOweekStart);
-        day.setDate(ISOweekStart.getDate() + i);
-        days.push(day);
-    }
-
-    return days;
+	const days = [];
+	for (let i = 0; i < 5; i++) { // Lundi -> Vendredi
+		const day = new Date(ISOweekStart);
+		day.setDate(ISOweekStart.getDate() + i);
+		days.push(day);
+	}
+	return days;
 }
 
 function toISODate(date) {
@@ -235,10 +233,10 @@ function badgeInfoFor(summary) {
 }
 
 // ===== AFFICHAGE =====
-function displayWeek(week) {
+function displayWeek(week, year) {
 	document.getElementById('weekLabel').textContent = `Semaine ${week}`;
 
-	const weekDays = getWeekDays(week);
+	const weekDays = getWeekDays(week, year);
 	const summary = getWeekAlternanceSummary(weekDays);
 	renderBanner(summary);
 
@@ -355,24 +353,21 @@ function dayTagLabel(dayAlt) {
 
 // ===== NAVIGATION SEMAINE =====
 function goToWeek(delta) {
-    currentWeek += delta;
-
-    if (currentWeek < 1) {
-        currentWeek = 53;
-    }
-
-    if (currentWeek > 53) {
-        currentWeek = 1;
-    }
-
-    displayWeek(currentWeek);
+	currentWeek += delta;
+	// Gestion simple du changement d'année si on dépasse 1 ou 52/53
+	const daysCheck = getWeekDays(currentWeek, currentYear);
+	if (daysCheck[0].getFullYear() !== currentYear) {
+		currentYear = daysCheck[0].getFullYear();
+	}
+	displayWeek(currentWeek, currentYear);
 }
 
 document.getElementById('prevWeek').addEventListener('click', () => goToWeek(-1));
 document.getElementById('nextWeek').addEventListener('click', () => goToWeek(1));
 document.getElementById('todayBtn').addEventListener('click', () => {
 	currentWeek = getWeekNumber(new Date());
-	displayWeek(currentWeek);
+	currentYear = new Date().getFullYear();
+	displayWeek(currentWeek, currentYear);
 });
 
 // ===== CHARGEMENT INITIAL =====
