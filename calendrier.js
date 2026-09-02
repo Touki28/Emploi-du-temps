@@ -353,16 +353,17 @@ function dayTagLabel(dayAlt) {
 
 // ===== NAVIGATION SEMAINE =====
 function goToWeek(delta) {
-	currentWeek += delta;
-	// Gestion simple du changement d'année si on dépasse 1 ou 52/53
-	if ( currentWeek == -1 ){
-		currentWeek = 53
-	}
-	if ( currentWeek == 54 ){
-		currentWeek = 1
-	}
-	const daysCheck = getWeekDays(currentWeek, currentYear);
-	displayWeek(currentWeek, currentYear);
+    currentWeek += delta;
+
+    if (currentWeek < 1) {
+        currentWeek = 53;
+    }
+
+    if (currentWeek > 53) {
+        currentWeek = 1;
+    }
+
+    displayWeek(currentWeek, currentYear);
 }
 
 document.getElementById('prevWeek').addEventListener('click', () => goToWeek(-1));
