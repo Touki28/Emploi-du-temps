@@ -106,7 +106,7 @@ function parseICSDate(line) {
 	const value = rest.join(':');
 	if (!value) return null;
 
-	const year = 2026;
+	const year = +value.slice(0, 4);
 	const month = +value.slice(4, 6) - 1;
 	const day = +value.slice(6, 8);
 
@@ -134,26 +134,30 @@ function getWeekNumber(date) {
 }
 
 function getWeekDays(weekNumber) {
-	const simple = new Date(2026, 0, 1 + (weekNumber - 1) * 7);
-	const dow = simple.getDay();
-	const ISOweekStart = simple;
-	if (dow <= 4) {
-		ISOweekStart.setDate(simple.getDate() - simple.getDay() + 1);
-	} else {
-		ISOweekStart.setDate(simple.getDate() + 8 - simple.getDay());
-	}
+    const currentYear = new Date().getFullYear();
+    const simple = new Date(currentYear, 0, 1 + (weekNumber - 1) * 7);
+    const dow = simple.getDay();
+    const ISOweekStart = simple;
 
-	const days = [];
-	for (let i = 0; i < 5; i++) { // Lundi -> Vendredi
-		const day = new Date(ISOweekStart);
-		day.setDate(ISOweekStart.getDate() + i);
-		days.push(day);
-	}
-	return days;
+    if (dow <= 4) {
+        ISOweekStart.setDate(simple.getDate() - simple.getDay() + 1);
+    } else {
+        ISOweekStart.setDate(simple.getDate() + 8 - simple.getDay());
+    }
+
+    const days = [];
+
+    for (let i = 0; i < 5; i++) {
+        const day = new Date(ISOweekStart);
+        day.setDate(ISOweekStart.getDate() + i);
+        days.push(day);
+    }
+
+    return days;
 }
 
 function toISODate(date) {
-	const y = 2026;
+	const y = date.getFullYear();
 	const m = String(date.getMonth() + 1).padStart(2, '0');
 	const d = String(date.getDate()).padStart(2, '0');
 	return `${y}-${m}-${d}`;
