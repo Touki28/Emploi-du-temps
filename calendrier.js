@@ -106,7 +106,7 @@ function parseICSDate(line) {
 	const value = rest.join(':');
 	if (!value) return null;
 
-	const year = +value.slice(0, 4);
+	const year = 2026;
 	const month = +value.slice(4, 6) - 1;
 	const day = +value.slice(6, 8);
 
@@ -133,8 +133,8 @@ function getWeekNumber(date) {
 	return Math.ceil((((d - yearStart) / 86400000) + 1) / 7);
 }
 
-function getWeekDays(weekNumber, year) {
-	const simple = new Date(year, 0, 1 + (weekNumber - 1) * 7);
+function getWeekDays(weekNumber) {
+	const simple = new Date(2026, 0, 1 + (weekNumber - 1) * 7);
 	const dow = simple.getDay();
 	const ISOweekStart = simple;
 	if (dow <= 4) {
@@ -153,7 +153,7 @@ function getWeekDays(weekNumber, year) {
 }
 
 function toISODate(date) {
-	const y = date.getFullYear();
+	const y = 2026;
 	const m = String(date.getMonth() + 1).padStart(2, '0');
 	const d = String(date.getDate()).padStart(2, '0');
 	return `${y}-${m}-${d}`;
