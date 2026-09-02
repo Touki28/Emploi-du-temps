@@ -1,0 +1,3616 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
+METHOD:PUBLISH
+X-CALSTART:20260817T000000Z
+X-CALEND:20270814T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - 14 - ST-L3 - INFORMATIQUE - du 17 août 2026 au 14 août 2027
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 14 - ST-L3 - INFORMATIQUE généré par le logiciel HP (©INDEX ÉDUCATION) le 02 sept. 2026 - UNIVERSITE LE HAVRE NORMANDIE - valable sur la période du 17 août 2026 au 14 août 2027 - Semaines : semaine 34 - 32
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260902T073933Z
+UID:Cours-1344928-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260910T100000Z
+DTEND:20260910T170000Z
+SUMMARY;LANGUAGE=fr:Kursus Festival de Rentrée
+DESCRIPTION;LANGUAGE=fr:Matière : Kursus Festival de Rentrée\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Kursus Festival de Rentrée<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T193112Z
+UID:Cours-1366767-3-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260901T120000Z
+DTEND:20260901T133000Z
+SUMMARY;LANGUAGE=fr:Réunion de rentrée - M. Fournier Dominique
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Réunion de rentrée\nEnseignant : M. Fournier Dominique\nSalle : B201 ST\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réunion de rentrée<br/>Enseignant : M. Fournier Dominique<br/>Salle : B201 ST<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260803T130120Z
+UID:Cours-1366768-3-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260902T060000Z
+DTEND:20260902T100000Z
+SUMMARY;LANGUAGE=fr:Génie logiciel - M. Mermet Bruno - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T194850Z
+UID:Cours-1366795-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260909T060000Z
+DTEND:20260909T080000Z
+SUMMARY;LANGUAGE=fr:Génie logiciel - M. Mermet Bruno - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T194850Z
+UID:Cours-1366795-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260916T060000Z
+DTEND:20260916T080000Z
+SUMMARY;LANGUAGE=fr:Génie logiciel - M. Mermet Bruno - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T194850Z
+UID:Cours-1366795-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260923T060000Z
+DTEND:20260923T080000Z
+SUMMARY;LANGUAGE=fr:Génie logiciel - M. Mermet Bruno - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T194850Z
+UID:Cours-1366795-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260930T060000Z
+DTEND:20260930T080000Z
+SUMMARY;LANGUAGE=fr:Génie logiciel - M. Mermet Bruno - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T194850Z
+UID:Cours-1366795-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261007T060000Z
+DTEND:20261007T080000Z
+SUMMARY;LANGUAGE=fr:Génie logiciel - M. Mermet Bruno - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T194850Z
+UID:Cours-1366795-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261014T060000Z
+DTEND:20261014T080000Z
+SUMMARY;LANGUAGE=fr:Génie logiciel - M. Mermet Bruno - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T194850Z
+UID:Cours-1366795-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261021T060000Z
+DTEND:20261021T080000Z
+SUMMARY;LANGUAGE=fr:Génie logiciel - M. Mermet Bruno - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T194850Z
+UID:Cours-1366795-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261104T070000Z
+DTEND:20261104T090000Z
+SUMMARY;LANGUAGE=fr:Génie logiciel - M. Mermet Bruno - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T194850Z
+UID:Cours-1366795-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261118T070000Z
+DTEND:20261118T090000Z
+SUMMARY;LANGUAGE=fr:Génie logiciel - M. Mermet Bruno - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T194850Z
+UID:Cours-1366795-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261125T070000Z
+DTEND:20261125T090000Z
+SUMMARY;LANGUAGE=fr:Génie logiciel - M. Mermet Bruno - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T194850Z
+UID:Cours-1366795-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261202T070000Z
+DTEND:20261202T090000Z
+SUMMARY;LANGUAGE=fr:Génie logiciel - M. Mermet Bruno - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T194850Z
+UID:Cours-1366795-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261209T070000Z
+DTEND:20261209T090000Z
+SUMMARY;LANGUAGE=fr:Génie logiciel - M. Mermet Bruno - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T194850Z
+UID:Cours-1366795-18-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261216T070000Z
+DTEND:20261216T090000Z
+SUMMARY;LANGUAGE=fr:Génie logiciel - M. Mermet Bruno - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201330Z
+UID:Cours-1366835-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260910T063000Z
+DTEND:20260910T080000Z
+SUMMARY;LANGUAGE=fr:Théorie des langages - M. Ponty Jean Luc - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201330Z
+UID:Cours-1366835-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260917T063000Z
+DTEND:20260917T080000Z
+SUMMARY;LANGUAGE=fr:Théorie des langages - M. Ponty Jean Luc - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201330Z
+UID:Cours-1366835-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260924T063000Z
+DTEND:20260924T080000Z
+SUMMARY;LANGUAGE=fr:Théorie des langages - M. Ponty Jean Luc - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201330Z
+UID:Cours-1366835-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261001T063000Z
+DTEND:20261001T080000Z
+SUMMARY;LANGUAGE=fr:Théorie des langages - M. Ponty Jean Luc - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201330Z
+UID:Cours-1366835-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261008T063000Z
+DTEND:20261008T080000Z
+SUMMARY;LANGUAGE=fr:Théorie des langages - M. Ponty Jean Luc - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201330Z
+UID:Cours-1366835-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261015T063000Z
+DTEND:20261015T080000Z
+SUMMARY;LANGUAGE=fr:Théorie des langages - M. Ponty Jean Luc - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201330Z
+UID:Cours-1366835-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261022T063000Z
+DTEND:20261022T080000Z
+SUMMARY;LANGUAGE=fr:Théorie des langages - M. Ponty Jean Luc - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201330Z
+UID:Cours-1366835-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261105T073000Z
+DTEND:20261105T090000Z
+SUMMARY;LANGUAGE=fr:Théorie des langages - M. Ponty Jean Luc - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201330Z
+UID:Cours-1366835-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261112T073000Z
+DTEND:20261112T090000Z
+SUMMARY;LANGUAGE=fr:Théorie des langages - M. Ponty Jean Luc - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201330Z
+UID:Cours-1366835-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261119T073000Z
+DTEND:20261119T090000Z
+SUMMARY;LANGUAGE=fr:Théorie des langages - M. Ponty Jean Luc - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201330Z
+UID:Cours-1366835-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261126T073000Z
+DTEND:20261126T090000Z
+SUMMARY;LANGUAGE=fr:Théorie des langages - M. Ponty Jean Luc - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201330Z
+UID:Cours-1366835-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261203T073000Z
+DTEND:20261203T090000Z
+SUMMARY;LANGUAGE=fr:Théorie des langages - M. Ponty Jean Luc - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201330Z
+UID:Cours-1366835-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261210T073000Z
+DTEND:20261210T090000Z
+SUMMARY;LANGUAGE=fr:Théorie des langages - M. Ponty Jean Luc - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201330Z
+UID:Cours-1366835-18-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261217T073000Z
+DTEND:20261217T090000Z
+SUMMARY;LANGUAGE=fr:Théorie des langages - M. Ponty Jean Luc - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201150Z
+UID:Cours-1366836-3-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260903T060000Z
+DTEND:20260903T083000Z
+SUMMARY;LANGUAGE=fr:Théorie des langages - M. Ponty Jean Luc - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204400Z
+UID:Cours-1366855-3-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260903T084500Z
+DTEND:20260903T101500Z
+SUMMARY;LANGUAGE=fr:Système de Gestion de Bases de - M. Fournier Dominique - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204651Z
+UID:Cours-1366856-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260907T063000Z
+DTEND:20260907T080000Z
+SUMMARY;LANGUAGE=fr:Système de Gestion de Bases de - M. Fournier Dominique - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204651Z
+UID:Cours-1366856-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260921T063000Z
+DTEND:20260921T080000Z
+SUMMARY;LANGUAGE=fr:Système de Gestion de Bases de - M. Fournier Dominique - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204651Z
+UID:Cours-1366856-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261005T063000Z
+DTEND:20261005T080000Z
+SUMMARY;LANGUAGE=fr:Système de Gestion de Bases de - M. Fournier Dominique - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204651Z
+UID:Cours-1366856-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261019T063000Z
+DTEND:20261019T080000Z
+SUMMARY;LANGUAGE=fr:Système de Gestion de Bases de - M. Fournier Dominique - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204651Z
+UID:Cours-1366856-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261109T073000Z
+DTEND:20261109T090000Z
+SUMMARY;LANGUAGE=fr:Système de Gestion de Bases de - M. Fournier Dominique - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204651Z
+UID:Cours-1366856-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261123T073000Z
+DTEND:20261123T090000Z
+SUMMARY;LANGUAGE=fr:Système de Gestion de Bases de - M. Fournier Dominique - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204651Z
+UID:Cours-1366856-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261207T073000Z
+DTEND:20261207T090000Z
+SUMMARY;LANGUAGE=fr:Système de Gestion de Bases de - M. Fournier Dominique - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213006Z
+UID:Cours-1366902-3-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260904T063000Z
+DTEND:20260904T080000Z
+SUMMARY;LANGUAGE=fr:Système d'exploitation 2 - M. Amanton Laurent - CM
+LOCATION;LANGUAGE=fr:MAZELINE amphi ST
+DESCRIPTION;LANGUAGE=fr:Matière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : MAZELINE amphi ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : MAZELINE amphi ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213146Z
+UID:Cours-1366903-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260911T060000Z
+DTEND:20260911T073000Z
+SUMMARY;LANGUAGE=fr:Système d'exploitation 2 - M. Amanton Laurent - CM
+LOCATION;LANGUAGE=fr:MAZELINE amphi ST
+DESCRIPTION;LANGUAGE=fr:Matière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : MAZELINE amphi ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : MAZELINE amphi ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213146Z
+UID:Cours-1366903-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260925T060000Z
+DTEND:20260925T073000Z
+SUMMARY;LANGUAGE=fr:Système d'exploitation 2 - M. Amanton Laurent - CM
+LOCATION;LANGUAGE=fr:MAZELINE amphi ST
+DESCRIPTION;LANGUAGE=fr:Matière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : MAZELINE amphi ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : MAZELINE amphi ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213146Z
+UID:Cours-1366903-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261009T060000Z
+DTEND:20261009T073000Z
+SUMMARY;LANGUAGE=fr:Système d'exploitation 2 - M. Amanton Laurent - CM
+LOCATION;LANGUAGE=fr:MAZELINE amphi ST
+DESCRIPTION;LANGUAGE=fr:Matière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : MAZELINE amphi ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : MAZELINE amphi ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T214411Z
+UID:Cours-1366925-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260908T081500Z
+DTEND:20260908T101500Z
+SUMMARY;LANGUAGE=fr:Algorithmique avancée - M. Balev Stefan - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T214411Z
+UID:Cours-1366925-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260922T081500Z
+DTEND:20260922T101500Z
+SUMMARY;LANGUAGE=fr:Algorithmique avancée - M. Balev Stefan - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T214411Z
+UID:Cours-1366925-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261006T081500Z
+DTEND:20261006T101500Z
+SUMMARY;LANGUAGE=fr:Algorithmique avancée - M. Balev Stefan - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T214411Z
+UID:Cours-1366926-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261020T081500Z
+DTEND:20261020T101500Z
+SUMMARY;LANGUAGE=fr:Système de Gestion de Bases de - M. Fournier Dominique - CM
+LOCATION;LANGUAGE=fr:A215 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A215 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A215 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T214411Z
+UID:Cours-1366926-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261110T091500Z
+DTEND:20261110T111500Z
+SUMMARY;LANGUAGE=fr:Système de Gestion de Bases de - M. Fournier Dominique - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215821Z
+UID:Cours-1366940-3-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260904T081500Z
+DTEND:20260904T101500Z
+SUMMARY;LANGUAGE=fr:Algorithmique avancée - M. Balev Stefan - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215850Z
+UID:Cours-1366941-3-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260904T113000Z
+DTEND:20260904T133000Z
+SUMMARY;LANGUAGE=fr:Algorithmique avancée - M. Balev Stefan - CM
+LOCATION;LANGUAGE=fr:B201 ST
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : B201 ST\nType : CM\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : B201 ST<br/>Type : CM<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201805Z
+UID:Cours-1366781-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260909T120000Z
+DTEND:20260909T143000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Génie logiciel - M. Pigne Yoann - TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Pigne Yoann\nSalle : INFO-A103 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Pigne Yoann<br/>Salle : INFO-A103 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201805Z
+UID:Cours-1366781-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260923T120000Z
+DTEND:20260923T143000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Génie logiciel - M. Pigne Yoann - TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Pigne Yoann\nSalle : INFO-A103 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Pigne Yoann<br/>Salle : INFO-A103 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201805Z
+UID:Cours-1366781-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261007T120000Z
+DTEND:20261007T143000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Génie logiciel - M. Pigne Yoann - TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Pigne Yoann\nSalle : INFO-A103 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Pigne Yoann<br/>Salle : INFO-A103 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201805Z
+UID:Cours-1366781-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261021T120000Z
+DTEND:20261021T143000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Génie logiciel - M. Pigne Yoann - TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Pigne Yoann\nSalle : INFO-A103 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Pigne Yoann<br/>Salle : INFO-A103 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201805Z
+UID:Cours-1366781-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261125T130000Z
+DTEND:20261125T153000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Génie logiciel - M. Pigne Yoann - TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Pigne Yoann\nSalle : INFO-A103 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Pigne Yoann<br/>Salle : INFO-A103 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201805Z
+UID:Cours-1366781-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261209T130000Z
+DTEND:20261209T153000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Génie logiciel - M. Pigne Yoann - TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Pigne Yoann\nSalle : INFO-A103 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Pigne Yoann<br/>Salle : INFO-A103 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201818Z
+UID:Cours-1366782-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260924T120000Z
+DTEND:20260924T143000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Génie logiciel - M. Pigne Yoann - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Pigne Yoann\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Pigne Yoann<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201818Z
+UID:Cours-1366782-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261008T120000Z
+DTEND:20261008T143000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Génie logiciel - M. Pigne Yoann - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Pigne Yoann\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Pigne Yoann<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201818Z
+UID:Cours-1366782-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261022T120000Z
+DTEND:20261022T143000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Génie logiciel - M. Pigne Yoann - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Pigne Yoann\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Pigne Yoann<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201818Z
+UID:Cours-1366782-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261126T130000Z
+DTEND:20261126T153000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Génie logiciel - M. Pigne Yoann - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Pigne Yoann\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Pigne Yoann<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201818Z
+UID:Cours-1366782-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261210T130000Z
+DTEND:20261210T153000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Génie logiciel - M. Pigne Yoann - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Pigne Yoann\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Pigne Yoann<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201836Z
+UID:Cours-1366783-3-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260902T113000Z
+DTEND:20260902T140000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Génie logiciel - M. Pigne Yoann - TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Pigne Yoann\nSalle : INFO-A103 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Pigne Yoann<br/>Salle : INFO-A103 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205353Z
+UID:Cours-1366844-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260916T081500Z
+DTEND:20260916T110000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Théorie des langages - M. Mermet Bruno - TD
+LOCATION;LANGUAGE=fr:C001 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Mermet Bruno\nSalle : C001 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Mermet Bruno<br/>Salle : C001 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205353Z
+UID:Cours-1366844-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260923T081500Z
+DTEND:20260923T110000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Théorie des langages - M. Mermet Bruno - TD
+LOCATION;LANGUAGE=fr:C001 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Mermet Bruno\nSalle : C001 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Mermet Bruno<br/>Salle : C001 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205353Z
+UID:Cours-1366844-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260930T081500Z
+DTEND:20260930T110000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Théorie des langages - M. Mermet Bruno - TD
+LOCATION;LANGUAGE=fr:C001 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Mermet Bruno\nSalle : C001 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Mermet Bruno<br/>Salle : C001 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205353Z
+UID:Cours-1366844-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261007T081500Z
+DTEND:20261007T110000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Théorie des langages - M. Mermet Bruno - TD
+LOCATION;LANGUAGE=fr:C001 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Mermet Bruno\nSalle : C001 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Mermet Bruno<br/>Salle : C001 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205353Z
+UID:Cours-1366844-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261014T081500Z
+DTEND:20261014T110000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Théorie des langages - M. Mermet Bruno - TD
+LOCATION;LANGUAGE=fr:C001 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Mermet Bruno\nSalle : C001 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Mermet Bruno<br/>Salle : C001 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205353Z
+UID:Cours-1366844-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261021T081500Z
+DTEND:20261021T110000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Théorie des langages - M. Mermet Bruno - TD
+LOCATION;LANGUAGE=fr:C001 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Mermet Bruno\nSalle : C001 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Mermet Bruno<br/>Salle : C001 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205353Z
+UID:Cours-1366844-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261104T091500Z
+DTEND:20261104T120000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Théorie des langages - M. Mermet Bruno - TD
+LOCATION;LANGUAGE=fr:C001 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Mermet Bruno\nSalle : C001 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Mermet Bruno<br/>Salle : C001 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205353Z
+UID:Cours-1366844-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261118T091500Z
+DTEND:20261118T120000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Théorie des langages - M. Mermet Bruno - TD
+LOCATION;LANGUAGE=fr:C001 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Mermet Bruno\nSalle : C001 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Mermet Bruno<br/>Salle : C001 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205353Z
+UID:Cours-1366844-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261125T091500Z
+DTEND:20261125T120000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Théorie des langages - M. Mermet Bruno - TD
+LOCATION;LANGUAGE=fr:C001 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Mermet Bruno\nSalle : C001 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Mermet Bruno<br/>Salle : C001 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205353Z
+UID:Cours-1366844-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261202T091500Z
+DTEND:20261202T120000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Théorie des langages - M. Mermet Bruno - TD
+LOCATION;LANGUAGE=fr:C001 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Mermet Bruno\nSalle : C001 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Mermet Bruno<br/>Salle : C001 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205353Z
+UID:Cours-1366844-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261209T091500Z
+DTEND:20261209T120000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Théorie des langages - M. Mermet Bruno - TD
+LOCATION;LANGUAGE=fr:C001 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Mermet Bruno\nSalle : C001 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Mermet Bruno<br/>Salle : C001 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205353Z
+UID:Cours-1366844-18-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261216T091500Z
+DTEND:20261216T120000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Théorie des langages - M. Mermet Bruno - TD
+LOCATION;LANGUAGE=fr:C001 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Mermet Bruno\nSalle : C001 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Mermet Bruno<br/>Salle : C001 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T210138Z
+UID:Cours-1366849-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260909T081500Z
+DTEND:20260909T110000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Théorie des langages - M. Mermet Bruno - TD
+LOCATION;LANGUAGE=fr:C004 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Mermet Bruno\nSalle : C004 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Mermet Bruno<br/>Salle : C004 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205051Z
+UID:Cours-1366869-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260907T081500Z
+DTEND:20260907T101500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205051Z
+UID:Cours-1366869-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260921T081500Z
+DTEND:20260921T101500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205051Z
+UID:Cours-1366869-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261005T081500Z
+DTEND:20261005T101500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205051Z
+UID:Cours-1366869-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261019T081500Z
+DTEND:20261019T101500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205051Z
+UID:Cours-1366869-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261109T091500Z
+DTEND:20261109T111500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205051Z
+UID:Cours-1366869-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261123T091500Z
+DTEND:20261123T111500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205051Z
+UID:Cours-1366869-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261207T091500Z
+DTEND:20261207T111500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205124Z
+UID:Cours-1366874-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260907T113000Z
+DTEND:20260907T133000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205124Z
+UID:Cours-1366874-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260921T113000Z
+DTEND:20260921T133000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205124Z
+UID:Cours-1366874-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261005T113000Z
+DTEND:20261005T133000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205124Z
+UID:Cours-1366874-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261019T113000Z
+DTEND:20261019T133000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205124Z
+UID:Cours-1366874-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261109T123000Z
+DTEND:20261109T143000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205124Z
+UID:Cours-1366874-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261123T123000Z
+DTEND:20261123T143000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205124Z
+UID:Cours-1366874-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261207T123000Z
+DTEND:20261207T143000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T210246Z
+UID:Cours-1366879-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260910T080000Z
+DTEND:20260910T100000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T210246Z
+UID:Cours-1366880-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260924T081500Z
+DTEND:20260924T101500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T210246Z
+UID:Cours-1366880-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261008T081500Z
+DTEND:20261008T101500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T210246Z
+UID:Cours-1366880-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261022T081500Z
+DTEND:20261022T101500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T210246Z
+UID:Cours-1366880-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261112T091500Z
+DTEND:20261112T111500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T210246Z
+UID:Cours-1366880-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261126T091500Z
+DTEND:20261126T111500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T210246Z
+UID:Cours-1366880-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261210T091500Z
+DTEND:20261210T111500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213353Z
+UID:Cours-1366908-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260907T134500Z
+DTEND:20260907T154500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213353Z
+UID:Cours-1366908-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260921T134500Z
+DTEND:20260921T154500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213353Z
+UID:Cours-1366908-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261005T134500Z
+DTEND:20261005T154500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213353Z
+UID:Cours-1366908-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261019T134500Z
+DTEND:20261019T154500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213353Z
+UID:Cours-1366908-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261109T144500Z
+DTEND:20261109T164500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213353Z
+UID:Cours-1366908-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261123T144500Z
+DTEND:20261123T164500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213353Z
+UID:Cours-1366908-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261207T144500Z
+DTEND:20261207T164500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213409Z
+UID:Cours-1366909-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260908T060000Z
+DTEND:20260908T080000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213409Z
+UID:Cours-1366909-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260922T060000Z
+DTEND:20260922T080000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213409Z
+UID:Cours-1366909-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261006T060000Z
+DTEND:20261006T080000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213409Z
+UID:Cours-1366909-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261020T060000Z
+DTEND:20261020T080000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213409Z
+UID:Cours-1366909-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261110T070000Z
+DTEND:20261110T090000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213409Z
+UID:Cours-1366909-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261124T070000Z
+DTEND:20261124T090000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213409Z
+UID:Cours-1366909-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261208T070000Z
+DTEND:20261208T090000Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215030Z
+UID:Cours-1366932-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260908T113000Z
+DTEND:20260908T154500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Algorithmique avancée - Mme Jay Veronique - TP
+LOCATION;LANGUAGE=fr:INFO-A104 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : Mme Jay Veronique\nSalle : INFO-A104 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : Mme Jay Veronique<br/>Salle : INFO-A104 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215030Z
+UID:Cours-1366932-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261020T113000Z
+DTEND:20261020T154500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Algorithmique avancée - Mme Jay Veronique - TP
+LOCATION;LANGUAGE=fr:INFO-A104 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : Mme Jay Veronique\nSalle : INFO-A104 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : Mme Jay Veronique<br/>Salle : INFO-A104 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215030Z
+UID:Cours-1366932-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261110T123000Z
+DTEND:20261110T164500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Algorithmique avancée - Mme Jay Veronique - TP
+LOCATION;LANGUAGE=fr:INFO-A104 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : Mme Jay Veronique\nSalle : INFO-A104 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : Mme Jay Veronique<br/>Salle : INFO-A104 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215030Z
+UID:Cours-1366932-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261124T123000Z
+DTEND:20261124T164500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Algorithmique avancée - Mme Jay Veronique - TP
+LOCATION;LANGUAGE=fr:INFO-A104 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : Mme Jay Veronique\nSalle : INFO-A104 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : Mme Jay Veronique<br/>Salle : INFO-A104 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215030Z
+UID:Cours-1366932-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261208T123000Z
+DTEND:20261208T164500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Algorithmique avancée - Mme Jay Veronique - TP
+LOCATION;LANGUAGE=fr:INFO-A104 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : Mme Jay Veronique\nSalle : INFO-A104 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : Mme Jay Veronique<br/>Salle : INFO-A104 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215030Z
+UID:Cours-1366933-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260922T113000Z
+DTEND:20260922T154500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Algorithmique avancée - Mme Jay Veronique - PAS DE SALLE INFO ! - TP
+LOCATION;LANGUAGE=fr:SALLE INFO NON DISPONIBLE
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : Mme Jay Veronique\nSalle : SALLE INFO NON DISPONIBLE\nMémo : PAS DE SALLE INFO !\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : Mme Jay Veronique<br/>Salle : SALLE INFO NON DISPONIBLE<br/>Mémo : PAS DE SALLE INFO !<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215030Z
+UID:Cours-1366933-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261006T113000Z
+DTEND:20261006T154500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO - Algorithmique avancée - Mme Jay Veronique - PAS DE SALLE INFO ! - TP
+LOCATION;LANGUAGE=fr:SALLE INFO NON DISPONIBLE
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : Mme Jay Veronique\nSalle : SALLE INFO NON DISPONIBLE\nMémo : PAS DE SALLE INFO !\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : Mme Jay Veronique<br/>Salle : SALLE INFO NON DISPONIBLE<br/>Mémo : PAS DE SALLE INFO !<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215411Z
+UID:Cours-1366939-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260911T081500Z
+DTEND:20260911T101500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215411Z
+UID:Cours-1366939-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260918T081500Z
+DTEND:20260918T101500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215411Z
+UID:Cours-1366939-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260925T081500Z
+DTEND:20260925T101500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215411Z
+UID:Cours-1366939-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261002T081500Z
+DTEND:20261002T101500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215411Z
+UID:Cours-1366939-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261009T081500Z
+DTEND:20261009T101500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215411Z
+UID:Cours-1366939-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261016T081500Z
+DTEND:20261016T101500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215411Z
+UID:Cours-1366939-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261023T081500Z
+DTEND:20261023T101500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215411Z
+UID:Cours-1366939-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261106T091500Z
+DTEND:20261106T111500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215411Z
+UID:Cours-1366939-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261113T091500Z
+DTEND:20261113T111500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215411Z
+UID:Cours-1366939-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261120T091500Z
+DTEND:20261120T111500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215411Z
+UID:Cours-1366939-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261127T091500Z
+DTEND:20261127T111500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215411Z
+UID:Cours-1366939-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261204T091500Z
+DTEND:20261204T111500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215411Z
+UID:Cours-1366939-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261211T091500Z
+DTEND:20261211T111500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215411Z
+UID:Cours-1366939-18-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261218T091500Z
+DTEND:20261218T111500Z
+SUMMARY;LANGUAGE=fr:GrA - L3 INFO\, GrB - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrA - L3 INFO\, GrB - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrA - L3 INFO\, GrB - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201914Z
+UID:Cours-1366787-3-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260902T113000Z
+DTEND:20260902T140000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Génie logiciel - M. Mermet Bruno - TP
+LOCATION;LANGUAGE=fr:INFO-A110 TP ST (PO + SAS)
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : INFO-A110 TP ST (PO + SAS)\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : INFO-A110 TP ST (PO + SAS)<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201854Z
+UID:Cours-1366792-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260909T120000Z
+DTEND:20260909T143000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Génie logiciel - M. Mermet Bruno - TP
+LOCATION;LANGUAGE=fr:INFO-A110 TP ST (PO + SAS)
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : INFO-A110 TP ST (PO + SAS)\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : INFO-A110 TP ST (PO + SAS)<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201854Z
+UID:Cours-1366792-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260916T120000Z
+DTEND:20260916T143000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Génie logiciel - M. Mermet Bruno - TP
+LOCATION;LANGUAGE=fr:INFO-A110 TP ST (PO + SAS)
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : INFO-A110 TP ST (PO + SAS)\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : INFO-A110 TP ST (PO + SAS)<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201854Z
+UID:Cours-1366792-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260923T120000Z
+DTEND:20260923T143000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Génie logiciel - M. Mermet Bruno - TP
+LOCATION;LANGUAGE=fr:INFO-A110 TP ST (PO + SAS)
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : INFO-A110 TP ST (PO + SAS)\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : INFO-A110 TP ST (PO + SAS)<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201854Z
+UID:Cours-1366792-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260930T120000Z
+DTEND:20260930T143000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Génie logiciel - M. Mermet Bruno - TP
+LOCATION;LANGUAGE=fr:INFO-A110 TP ST (PO + SAS)
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : INFO-A110 TP ST (PO + SAS)\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : INFO-A110 TP ST (PO + SAS)<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201854Z
+UID:Cours-1366792-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261007T120000Z
+DTEND:20261007T143000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Génie logiciel - M. Mermet Bruno - TP
+LOCATION;LANGUAGE=fr:INFO-A110 TP ST (PO + SAS)
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : INFO-A110 TP ST (PO + SAS)\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : INFO-A110 TP ST (PO + SAS)<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201854Z
+UID:Cours-1366792-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261014T120000Z
+DTEND:20261014T143000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Génie logiciel - M. Mermet Bruno - TP
+LOCATION;LANGUAGE=fr:INFO-A110 TP ST (PO + SAS)
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : INFO-A110 TP ST (PO + SAS)\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : INFO-A110 TP ST (PO + SAS)<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201854Z
+UID:Cours-1366792-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261021T120000Z
+DTEND:20261021T143000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Génie logiciel - M. Mermet Bruno - TP
+LOCATION;LANGUAGE=fr:INFO-A110 TP ST (PO + SAS)
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : INFO-A110 TP ST (PO + SAS)\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : INFO-A110 TP ST (PO + SAS)<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201854Z
+UID:Cours-1366792-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261104T130000Z
+DTEND:20261104T153000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Génie logiciel - M. Mermet Bruno - TP
+LOCATION;LANGUAGE=fr:INFO-A110 TP ST (PO + SAS)
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : INFO-A110 TP ST (PO + SAS)\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : INFO-A110 TP ST (PO + SAS)<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201854Z
+UID:Cours-1366792-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261118T130000Z
+DTEND:20261118T153000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Génie logiciel - M. Mermet Bruno - TP
+LOCATION;LANGUAGE=fr:INFO-A110 TP ST (PO + SAS)
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : INFO-A110 TP ST (PO + SAS)\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : INFO-A110 TP ST (PO + SAS)<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201854Z
+UID:Cours-1366792-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261125T130000Z
+DTEND:20261125T153000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Génie logiciel - M. Mermet Bruno - TP
+LOCATION;LANGUAGE=fr:INFO-A110 TP ST (PO + SAS)
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : INFO-A110 TP ST (PO + SAS)\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : INFO-A110 TP ST (PO + SAS)<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201854Z
+UID:Cours-1366792-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261202T130000Z
+DTEND:20261202T153000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Génie logiciel - M. Mermet Bruno - TP
+LOCATION;LANGUAGE=fr:INFO-A110 TP ST (PO + SAS)
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : INFO-A110 TP ST (PO + SAS)\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : INFO-A110 TP ST (PO + SAS)<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201854Z
+UID:Cours-1366792-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261209T130000Z
+DTEND:20261209T153000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Génie logiciel - M. Mermet Bruno - TP
+LOCATION;LANGUAGE=fr:INFO-A110 TP ST (PO + SAS)
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : INFO-A110 TP ST (PO + SAS)\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : INFO-A110 TP ST (PO + SAS)<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201854Z
+UID:Cours-1366792-18-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261216T130000Z
+DTEND:20261216T153000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Génie logiciel - M. Mermet Bruno - TP
+LOCATION;LANGUAGE=fr:INFO-A110 TP ST (PO + SAS)
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Génie logiciel\nEnseignant : M. Mermet Bruno\nSalle : INFO-A110 TP ST (PO + SAS)\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : M. Mermet Bruno<br/>Salle : INFO-A110 TP ST (PO + SAS)<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205051Z
+UID:Cours-1366869-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260914T081500Z
+DTEND:20260914T101500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205051Z
+UID:Cours-1366869-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260928T081500Z
+DTEND:20260928T101500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205051Z
+UID:Cours-1366869-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261012T081500Z
+DTEND:20261012T101500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205051Z
+UID:Cours-1366869-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261102T091500Z
+DTEND:20261102T111500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205051Z
+UID:Cours-1366869-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261116T091500Z
+DTEND:20261116T111500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205051Z
+UID:Cours-1366869-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261130T091500Z
+DTEND:20261130T111500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205124Z
+UID:Cours-1366874-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260914T113000Z
+DTEND:20260914T133000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205124Z
+UID:Cours-1366874-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260928T113000Z
+DTEND:20260928T133000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205124Z
+UID:Cours-1366874-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261012T113000Z
+DTEND:20261012T133000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205124Z
+UID:Cours-1366874-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261102T123000Z
+DTEND:20261102T143000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205124Z
+UID:Cours-1366874-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261116T123000Z
+DTEND:20261116T143000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T205124Z
+UID:Cours-1366874-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261130T123000Z
+DTEND:20261130T143000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T210246Z
+UID:Cours-1366880-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260917T081500Z
+DTEND:20260917T101500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T210246Z
+UID:Cours-1366880-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261001T081500Z
+DTEND:20261001T101500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T210246Z
+UID:Cours-1366880-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261015T081500Z
+DTEND:20261015T101500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T210246Z
+UID:Cours-1366880-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261105T091500Z
+DTEND:20261105T111500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T210246Z
+UID:Cours-1366880-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261119T091500Z
+DTEND:20261119T111500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T210246Z
+UID:Cours-1366880-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261203T091500Z
+DTEND:20261203T111500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213353Z
+UID:Cours-1366908-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260914T134500Z
+DTEND:20260914T154500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213353Z
+UID:Cours-1366908-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260928T134500Z
+DTEND:20260928T154500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213353Z
+UID:Cours-1366908-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261012T134500Z
+DTEND:20261012T154500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213353Z
+UID:Cours-1366908-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261102T144500Z
+DTEND:20261102T164500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213353Z
+UID:Cours-1366908-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261116T144500Z
+DTEND:20261116T164500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213353Z
+UID:Cours-1366908-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261130T144500Z
+DTEND:20261130T164500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213409Z
+UID:Cours-1366909-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260915T060000Z
+DTEND:20260915T080000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213409Z
+UID:Cours-1366909-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260929T060000Z
+DTEND:20260929T080000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213409Z
+UID:Cours-1366909-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261013T060000Z
+DTEND:20261013T080000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213409Z
+UID:Cours-1366909-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261103T070000Z
+DTEND:20261103T090000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213409Z
+UID:Cours-1366909-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261117T070000Z
+DTEND:20261117T090000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213409Z
+UID:Cours-1366909-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261201T070000Z
+DTEND:20261201T090000Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215030Z
+UID:Cours-1366932-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261013T113000Z
+DTEND:20261013T154500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Algorithmique avancée - Mme Jay Veronique - TP
+LOCATION;LANGUAGE=fr:INFO-A104 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : Mme Jay Veronique\nSalle : INFO-A104 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : Mme Jay Veronique<br/>Salle : INFO-A104 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215030Z
+UID:Cours-1366932-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261103T123000Z
+DTEND:20261103T164500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Algorithmique avancée - Mme Jay Veronique - TP
+LOCATION;LANGUAGE=fr:INFO-A104 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : Mme Jay Veronique\nSalle : INFO-A104 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : Mme Jay Veronique<br/>Salle : INFO-A104 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215030Z
+UID:Cours-1366932-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261117T123000Z
+DTEND:20261117T164500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Algorithmique avancée - Mme Jay Veronique - TP
+LOCATION;LANGUAGE=fr:INFO-A104 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : Mme Jay Veronique\nSalle : INFO-A104 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : Mme Jay Veronique<br/>Salle : INFO-A104 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215030Z
+UID:Cours-1366932-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261201T123000Z
+DTEND:20261201T164500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Algorithmique avancée - Mme Jay Veronique - TP
+LOCATION;LANGUAGE=fr:INFO-A104 TP ST
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : Mme Jay Veronique\nSalle : INFO-A104 TP ST\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : Mme Jay Veronique<br/>Salle : INFO-A104 TP ST<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215030Z
+UID:Cours-1366933-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260915T113000Z
+DTEND:20260915T154500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Algorithmique avancée - Mme Jay Veronique - PAS DE SALLE INFO ! - TP
+LOCATION;LANGUAGE=fr:SALLE INFO NON DISPONIBLE
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : Mme Jay Veronique\nSalle : SALLE INFO NON DISPONIBLE\nMémo : PAS DE SALLE INFO !\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : Mme Jay Veronique<br/>Salle : SALLE INFO NON DISPONIBLE<br/>Mémo : PAS DE SALLE INFO !<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215030Z
+UID:Cours-1366933-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260929T113000Z
+DTEND:20260929T154500Z
+SUMMARY;LANGUAGE=fr:GrB - L3 INFO - Algorithmique avancée - Mme Jay Veronique - PAS DE SALLE INFO ! - TP
+LOCATION;LANGUAGE=fr:SALLE INFO NON DISPONIBLE
+DESCRIPTION;LANGUAGE=fr:TD : GrB - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : Mme Jay Veronique\nSalle : SALLE INFO NON DISPONIBLE\nMémo : PAS DE SALLE INFO !\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrB - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : Mme Jay Veronique<br/>Salle : SALLE INFO NON DISPONIBLE<br/>Mémo : PAS DE SALLE INFO !<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201729Z
+UID:Cours-1366821-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260909T120000Z
+DTEND:20260909T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Génie logiciel - Mme Simon Gaele - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Génie logiciel\nEnseignant : Mme Simon Gaele\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : Mme Simon Gaele<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201729Z
+UID:Cours-1366821-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260916T120000Z
+DTEND:20260916T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Génie logiciel - Mme Simon Gaele - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Génie logiciel\nEnseignant : Mme Simon Gaele\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : Mme Simon Gaele<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201729Z
+UID:Cours-1366821-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260923T120000Z
+DTEND:20260923T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Génie logiciel - Mme Simon Gaele - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Génie logiciel\nEnseignant : Mme Simon Gaele\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : Mme Simon Gaele<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201729Z
+UID:Cours-1366821-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260930T120000Z
+DTEND:20260930T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Génie logiciel - Mme Simon Gaele - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Génie logiciel\nEnseignant : Mme Simon Gaele\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : Mme Simon Gaele<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201729Z
+UID:Cours-1366821-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261007T120000Z
+DTEND:20261007T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Génie logiciel - Mme Simon Gaele - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Génie logiciel\nEnseignant : Mme Simon Gaele\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : Mme Simon Gaele<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201729Z
+UID:Cours-1366821-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261014T120000Z
+DTEND:20261014T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Génie logiciel - Mme Simon Gaele - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Génie logiciel\nEnseignant : Mme Simon Gaele\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : Mme Simon Gaele<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201729Z
+UID:Cours-1366821-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261021T120000Z
+DTEND:20261021T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Génie logiciel - Mme Simon Gaele - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Génie logiciel\nEnseignant : Mme Simon Gaele\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : Mme Simon Gaele<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201729Z
+UID:Cours-1366821-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261104T130000Z
+DTEND:20261104T153000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Génie logiciel - Mme Simon Gaele - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Génie logiciel\nEnseignant : Mme Simon Gaele\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : Mme Simon Gaele<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201729Z
+UID:Cours-1366821-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261118T130000Z
+DTEND:20261118T153000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Génie logiciel - Mme Simon Gaele - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Génie logiciel\nEnseignant : Mme Simon Gaele\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : Mme Simon Gaele<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201729Z
+UID:Cours-1366821-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261125T130000Z
+DTEND:20261125T153000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Génie logiciel - Mme Simon Gaele - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Génie logiciel\nEnseignant : Mme Simon Gaele\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : Mme Simon Gaele<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201729Z
+UID:Cours-1366821-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261202T130000Z
+DTEND:20261202T153000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Génie logiciel - Mme Simon Gaele - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Génie logiciel\nEnseignant : Mme Simon Gaele\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : Mme Simon Gaele<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201729Z
+UID:Cours-1366821-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261209T130000Z
+DTEND:20261209T153000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Génie logiciel - Mme Simon Gaele - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Génie logiciel\nEnseignant : Mme Simon Gaele\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : Mme Simon Gaele<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201729Z
+UID:Cours-1366821-18-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261216T130000Z
+DTEND:20261216T153000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Génie logiciel - Mme Simon Gaele - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Génie logiciel\nEnseignant : Mme Simon Gaele\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : Mme Simon Gaele<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T201744Z
+UID:Cours-1366822-3-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260902T113000Z
+DTEND:20260902T140000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Génie logiciel - Mme Simon Gaele - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Génie logiciel\nEnseignant : Mme Simon Gaele\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Génie logiciel<br/>Enseignant : Mme Simon Gaele<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204204Z
+UID:Cours-1366850-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260911T074500Z
+DTEND:20260911T103000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Théorie des langages - M. Ponty Jean Luc - TD
+LOCATION;LANGUAGE=fr:A213 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : A213 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : A213 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204204Z
+UID:Cours-1366850-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260918T074500Z
+DTEND:20260918T103000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Théorie des langages - M. Ponty Jean Luc - TD
+LOCATION;LANGUAGE=fr:A213 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : A213 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : A213 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204204Z
+UID:Cours-1366850-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260925T074500Z
+DTEND:20260925T103000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Théorie des langages - M. Ponty Jean Luc - TD
+LOCATION;LANGUAGE=fr:A213 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : A213 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : A213 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204204Z
+UID:Cours-1366850-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261002T074500Z
+DTEND:20261002T103000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Théorie des langages - M. Ponty Jean Luc - TD
+LOCATION;LANGUAGE=fr:A213 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : A213 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : A213 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204204Z
+UID:Cours-1366850-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261009T074500Z
+DTEND:20261009T103000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Théorie des langages - M. Ponty Jean Luc - TD
+LOCATION;LANGUAGE=fr:A213 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : A213 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : A213 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204204Z
+UID:Cours-1366850-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261016T074500Z
+DTEND:20261016T103000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Théorie des langages - M. Ponty Jean Luc - TD
+LOCATION;LANGUAGE=fr:A213 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : A213 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : A213 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204204Z
+UID:Cours-1366850-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261023T074500Z
+DTEND:20261023T103000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Théorie des langages - M. Ponty Jean Luc - TD
+LOCATION;LANGUAGE=fr:A213 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : A213 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : A213 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204204Z
+UID:Cours-1366850-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261106T084500Z
+DTEND:20261106T113000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Théorie des langages - M. Ponty Jean Luc - TD
+LOCATION;LANGUAGE=fr:A213 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : A213 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : A213 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204204Z
+UID:Cours-1366850-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261113T084500Z
+DTEND:20261113T113000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Théorie des langages - M. Ponty Jean Luc - TD
+LOCATION;LANGUAGE=fr:A213 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : A213 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : A213 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204204Z
+UID:Cours-1366850-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261120T084500Z
+DTEND:20261120T113000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Théorie des langages - M. Ponty Jean Luc - TD
+LOCATION;LANGUAGE=fr:A213 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : A213 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : A213 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204204Z
+UID:Cours-1366850-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261127T084500Z
+DTEND:20261127T113000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Théorie des langages - M. Ponty Jean Luc - TD
+LOCATION;LANGUAGE=fr:A213 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : A213 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : A213 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204204Z
+UID:Cours-1366850-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261204T084500Z
+DTEND:20261204T113000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Théorie des langages - M. Ponty Jean Luc - TD
+LOCATION;LANGUAGE=fr:A213 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : A213 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : A213 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204204Z
+UID:Cours-1366850-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261211T084500Z
+DTEND:20261211T113000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Théorie des langages - M. Ponty Jean Luc - TD
+LOCATION;LANGUAGE=fr:A213 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : A213 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : A213 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T204204Z
+UID:Cours-1366850-18-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261218T084500Z
+DTEND:20261218T113000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Théorie des langages - M. Ponty Jean Luc - TD
+LOCATION;LANGUAGE=fr:A213 ST
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Théorie des langages\nEnseignant : M. Ponty Jean Luc\nSalle : A213 ST\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Théorie des langages<br/>Enseignant : M. Ponty Jean Luc<br/>Salle : A213 ST<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T211027Z
+UID:Cours-1366881-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260908T113000Z
+DTEND:20260908T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T211027Z
+UID:Cours-1366881-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260915T113000Z
+DTEND:20260915T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T211027Z
+UID:Cours-1366881-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260922T113000Z
+DTEND:20260922T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T211027Z
+UID:Cours-1366881-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260929T113000Z
+DTEND:20260929T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T211027Z
+UID:Cours-1366881-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261006T113000Z
+DTEND:20261006T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T211027Z
+UID:Cours-1366881-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261013T113000Z
+DTEND:20261013T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T211027Z
+UID:Cours-1366881-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261020T113000Z
+DTEND:20261020T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T211027Z
+UID:Cours-1366881-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261103T123000Z
+DTEND:20261103T153000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T211027Z
+UID:Cours-1366881-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261110T123000Z
+DTEND:20261110T153000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T211027Z
+UID:Cours-1366881-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261117T123000Z
+DTEND:20261117T153000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T211027Z
+UID:Cours-1366881-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261124T123000Z
+DTEND:20261124T153000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T211027Z
+UID:Cours-1366881-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261201T123000Z
+DTEND:20261201T153000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T211027Z
+UID:Cours-1366881-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261208T123000Z
+DTEND:20261208T153000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système de Gestion de Bases de - M. Fournier Dominique - TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système de Gestion de Bases de\nEnseignant : M. Fournier Dominique\nSalle : A102 TP ST L3 INFO\nType : TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système de Gestion de Bases de<br/>Enseignant : M. Fournier Dominique<br/>Salle : A102 TP ST L3 INFO<br/>Type : TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213558Z
+UID:Cours-1366910-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260907T113000Z
+DTEND:20260907T133000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213558Z
+UID:Cours-1366910-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260914T113000Z
+DTEND:20260914T133000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213558Z
+UID:Cours-1366910-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260921T113000Z
+DTEND:20260921T133000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213558Z
+UID:Cours-1366910-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260928T113000Z
+DTEND:20260928T133000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213558Z
+UID:Cours-1366910-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261005T113000Z
+DTEND:20261005T133000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213558Z
+UID:Cours-1366910-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261012T113000Z
+DTEND:20261012T133000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213558Z
+UID:Cours-1366910-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261019T113000Z
+DTEND:20261019T133000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213558Z
+UID:Cours-1366910-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261102T123000Z
+DTEND:20261102T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213558Z
+UID:Cours-1366910-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261109T123000Z
+DTEND:20261109T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213558Z
+UID:Cours-1366910-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261116T123000Z
+DTEND:20261116T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213558Z
+UID:Cours-1366910-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261123T123000Z
+DTEND:20261123T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213558Z
+UID:Cours-1366910-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261130T123000Z
+DTEND:20261130T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213558Z
+UID:Cours-1366910-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261207T123000Z
+DTEND:20261207T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213558Z
+UID:Cours-1366910-18-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261214T123000Z
+DTEND:20261214T143000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Système d'exploitation 2 - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Système d'exploitation 2\nEnseignant : M. Amanton Laurent\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Système d'exploitation 2<br/>Enseignant : M. Amanton Laurent<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213741Z
+UID:Cours-1366915-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260907T081500Z
+DTEND:20260907T101500Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Algorithmique avancée - M. Balev Stefan - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213741Z
+UID:Cours-1366915-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260914T081500Z
+DTEND:20260914T101500Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Algorithmique avancée - M. Balev Stefan - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213741Z
+UID:Cours-1366915-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260921T081500Z
+DTEND:20260921T101500Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Algorithmique avancée - M. Balev Stefan - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213741Z
+UID:Cours-1366915-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260928T081500Z
+DTEND:20260928T101500Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Algorithmique avancée - M. Balev Stefan - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213741Z
+UID:Cours-1366915-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261005T081500Z
+DTEND:20261005T101500Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Algorithmique avancée - M. Balev Stefan - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213741Z
+UID:Cours-1366915-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261012T081500Z
+DTEND:20261012T101500Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Algorithmique avancée - M. Balev Stefan - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213741Z
+UID:Cours-1366915-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261019T081500Z
+DTEND:20261019T101500Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Algorithmique avancée - M. Balev Stefan - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213741Z
+UID:Cours-1366915-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261102T091500Z
+DTEND:20261102T111500Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Algorithmique avancée - M. Balev Stefan - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213741Z
+UID:Cours-1366915-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261109T091500Z
+DTEND:20261109T111500Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Algorithmique avancée - M. Balev Stefan - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213741Z
+UID:Cours-1366915-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261116T091500Z
+DTEND:20261116T111500Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Algorithmique avancée - M. Balev Stefan - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213741Z
+UID:Cours-1366915-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261123T091500Z
+DTEND:20261123T111500Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Algorithmique avancée - M. Balev Stefan - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213741Z
+UID:Cours-1366915-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261130T091500Z
+DTEND:20261130T111500Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Algorithmique avancée - M. Balev Stefan - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213741Z
+UID:Cours-1366915-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261207T091500Z
+DTEND:20261207T111500Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Algorithmique avancée - M. Balev Stefan - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T213741Z
+UID:Cours-1366915-18-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261214T091500Z
+DTEND:20261214T111500Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Algorithmique avancée - M. Balev Stefan - CM/TP
+LOCATION;LANGUAGE=fr:E007 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Algorithmique avancée\nEnseignant : M. Balev Stefan\nSalle : E007 TP ST INFO (PO + Qgis)\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Algorithmique avancée<br/>Enseignant : M. Balev Stefan<br/>Salle : E007 TP ST INFO (PO + Qgis)<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215243Z
+UID:Cours-1366934-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260908T060000Z
+DTEND:20260908T080000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215243Z
+UID:Cours-1366934-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260915T060000Z
+DTEND:20260915T080000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215243Z
+UID:Cours-1366934-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260922T060000Z
+DTEND:20260922T080000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215243Z
+UID:Cours-1366934-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260929T060000Z
+DTEND:20260929T080000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215243Z
+UID:Cours-1366934-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261006T060000Z
+DTEND:20261006T080000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215243Z
+UID:Cours-1366934-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261013T060000Z
+DTEND:20261013T080000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215243Z
+UID:Cours-1366934-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261020T060000Z
+DTEND:20261020T080000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215243Z
+UID:Cours-1366934-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261103T070000Z
+DTEND:20261103T090000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215243Z
+UID:Cours-1366934-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261110T070000Z
+DTEND:20261110T090000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215243Z
+UID:Cours-1366934-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261117T070000Z
+DTEND:20261117T090000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215243Z
+UID:Cours-1366934-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261124T070000Z
+DTEND:20261124T090000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215243Z
+UID:Cours-1366934-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261201T070000Z
+DTEND:20261201T090000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215243Z
+UID:Cours-1366934-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261208T070000Z
+DTEND:20261208T090000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T215243Z
+UID:Cours-1366934-18-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261215T070000Z
+DTEND:20261215T090000Z
+SUMMARY;LANGUAGE=fr:GrC - L3 INFO - Anglais - M. Josephs Nicholas - TD
+LOCATION;LANGUAGE=fr:C104 TP ST INFO (PO + Qgis)
+DESCRIPTION;LANGUAGE=fr:TD : GrC - L3 INFO\nMatière : Anglais\nEnseignant : M. Josephs Nicholas\nSalle : C104 TP ST INFO (PO + Qgis)\nType : TD\n
+X-ALT-DESC;FMTTYPE=text/html:TD : GrC - L3 INFO<br/>Matière : Anglais<br/>Enseignant : M. Josephs Nicholas<br/>Salle : C104 TP ST INFO (PO + Qgis)<br/>Type : TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T211611Z
+UID:Cours-1366886-3-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260903T113000Z
+DTEND:20260903T130000Z
+SUMMARY;LANGUAGE=fr:Architecture avancée - OPT2 L3 INFO - Option 2 : architecture avancé - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Architecture avancée - OPT2 L3 INFO\nMatière : Option 2 : architecture avancé\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Architecture avancée - OPT2 L3 INFO<br/>Matière : Option 2 : architecture avancé<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212801Z
+UID:Cours-1366891-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260911T113000Z
+DTEND:20260911T134500Z
+SUMMARY;LANGUAGE=fr:Architecture avancée - OPT2 L3 INFO - Option 2 : architecture avancé - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Architecture avancée - OPT2 L3 INFO\nMatière : Option 2 : architecture avancé\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Architecture avancée - OPT2 L3 INFO<br/>Matière : Option 2 : architecture avancé<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212801Z
+UID:Cours-1366891-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260918T113000Z
+DTEND:20260918T134500Z
+SUMMARY;LANGUAGE=fr:Architecture avancée - OPT2 L3 INFO - Option 2 : architecture avancé - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Architecture avancée - OPT2 L3 INFO\nMatière : Option 2 : architecture avancé\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Architecture avancée - OPT2 L3 INFO<br/>Matière : Option 2 : architecture avancé<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212801Z
+UID:Cours-1366891-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260925T113000Z
+DTEND:20260925T134500Z
+SUMMARY;LANGUAGE=fr:Architecture avancée - OPT2 L3 INFO - Option 2 : architecture avancé - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Architecture avancée - OPT2 L3 INFO\nMatière : Option 2 : architecture avancé\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Architecture avancée - OPT2 L3 INFO<br/>Matière : Option 2 : architecture avancé<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212801Z
+UID:Cours-1366891-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261002T113000Z
+DTEND:20261002T134500Z
+SUMMARY;LANGUAGE=fr:Architecture avancée - OPT2 L3 INFO - Option 2 : architecture avancé - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Architecture avancée - OPT2 L3 INFO\nMatière : Option 2 : architecture avancé\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Architecture avancée - OPT2 L3 INFO<br/>Matière : Option 2 : architecture avancé<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212801Z
+UID:Cours-1366891-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261009T113000Z
+DTEND:20261009T134500Z
+SUMMARY;LANGUAGE=fr:Architecture avancée - OPT2 L3 INFO - Option 2 : architecture avancé - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Architecture avancée - OPT2 L3 INFO\nMatière : Option 2 : architecture avancé\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Architecture avancée - OPT2 L3 INFO<br/>Matière : Option 2 : architecture avancé<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212801Z
+UID:Cours-1366891-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261016T113000Z
+DTEND:20261016T134500Z
+SUMMARY;LANGUAGE=fr:Architecture avancée - OPT2 L3 INFO - Option 2 : architecture avancé - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Architecture avancée - OPT2 L3 INFO\nMatière : Option 2 : architecture avancé\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Architecture avancée - OPT2 L3 INFO<br/>Matière : Option 2 : architecture avancé<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212801Z
+UID:Cours-1366891-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261023T113000Z
+DTEND:20261023T134500Z
+SUMMARY;LANGUAGE=fr:Architecture avancée - OPT2 L3 INFO - Option 2 : architecture avancé - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Architecture avancée - OPT2 L3 INFO\nMatière : Option 2 : architecture avancé\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Architecture avancée - OPT2 L3 INFO<br/>Matière : Option 2 : architecture avancé<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212801Z
+UID:Cours-1366891-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261106T123000Z
+DTEND:20261106T144500Z
+SUMMARY;LANGUAGE=fr:Architecture avancée - OPT2 L3 INFO - Option 2 : architecture avancé - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Architecture avancée - OPT2 L3 INFO\nMatière : Option 2 : architecture avancé\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Architecture avancée - OPT2 L3 INFO<br/>Matière : Option 2 : architecture avancé<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212801Z
+UID:Cours-1366891-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261113T123000Z
+DTEND:20261113T144500Z
+SUMMARY;LANGUAGE=fr:Architecture avancée - OPT2 L3 INFO - Option 2 : architecture avancé - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Architecture avancée - OPT2 L3 INFO\nMatière : Option 2 : architecture avancé\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Architecture avancée - OPT2 L3 INFO<br/>Matière : Option 2 : architecture avancé<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212801Z
+UID:Cours-1366891-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261120T123000Z
+DTEND:20261120T144500Z
+SUMMARY;LANGUAGE=fr:Architecture avancée - OPT2 L3 INFO - Option 2 : architecture avancé - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Architecture avancée - OPT2 L3 INFO\nMatière : Option 2 : architecture avancé\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Architecture avancée - OPT2 L3 INFO<br/>Matière : Option 2 : architecture avancé<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212801Z
+UID:Cours-1366891-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261127T123000Z
+DTEND:20261127T144500Z
+SUMMARY;LANGUAGE=fr:Architecture avancée - OPT2 L3 INFO - Option 2 : architecture avancé - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Architecture avancée - OPT2 L3 INFO\nMatière : Option 2 : architecture avancé\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Architecture avancée - OPT2 L3 INFO<br/>Matière : Option 2 : architecture avancé<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212801Z
+UID:Cours-1366891-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261204T123000Z
+DTEND:20261204T144500Z
+SUMMARY;LANGUAGE=fr:Architecture avancée - OPT2 L3 INFO - Option 2 : architecture avancé - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Architecture avancée - OPT2 L3 INFO\nMatière : Option 2 : architecture avancé\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Architecture avancée - OPT2 L3 INFO<br/>Matière : Option 2 : architecture avancé<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212801Z
+UID:Cours-1366891-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261211T123000Z
+DTEND:20261211T144500Z
+SUMMARY;LANGUAGE=fr:Architecture avancée - OPT2 L3 INFO - Option 2 : architecture avancé - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Architecture avancée - OPT2 L3 INFO\nMatière : Option 2 : architecture avancé\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Architecture avancée - OPT2 L3 INFO<br/>Matière : Option 2 : architecture avancé<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212801Z
+UID:Cours-1366891-18-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261218T123000Z
+DTEND:20261218T144500Z
+SUMMARY;LANGUAGE=fr:Architecture avancée - OPT2 L3 INFO - Option 2 : architecture avancé - M. Amanton Laurent - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Architecture avancée - OPT2 L3 INFO\nMatière : Option 2 : architecture avancé\nEnseignant : M. Amanton Laurent\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Architecture avancée - OPT2 L3 INFO<br/>Matière : Option 2 : architecture avancé<br/>Enseignant : M. Amanton Laurent<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212548Z
+UID:Cours-1366892-3-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260903T131500Z
+DTEND:20260903T144500Z
+SUMMARY;LANGUAGE=fr:Programmation objets C++ - OPT1 L3 INFO - Option 1 : programmation objet - M. Duhamel Christophe - CM/TP
+LOCATION;LANGUAGE=fr:A102 TP ST L3 INFO
+DESCRIPTION;LANGUAGE=fr:Option : Programmation objets C++ - OPT1 L3 INFO\nMatière : Option 1 : programmation objet\nEnseignant : M. Duhamel Christophe\nSalle : A102 TP ST L3 INFO\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Programmation objets C++ - OPT1 L3 INFO<br/>Matière : Option 1 : programmation objet<br/>Enseignant : M. Duhamel Christophe<br/>Salle : A102 TP ST L3 INFO<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212821Z
+UID:Cours-1366893-4-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260911T113000Z
+DTEND:20260911T134500Z
+SUMMARY;LANGUAGE=fr:Programmation objets C++ - OPT1 L3 INFO - Option 1 : programmation objet - M. Duhamel Christophe - CM/TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:Option : Programmation objets C++ - OPT1 L3 INFO\nMatière : Option 1 : programmation objet\nEnseignant : M. Duhamel Christophe\nSalle : INFO-A103 TP ST\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Programmation objets C++ - OPT1 L3 INFO<br/>Matière : Option 1 : programmation objet<br/>Enseignant : M. Duhamel Christophe<br/>Salle : INFO-A103 TP ST<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212821Z
+UID:Cours-1366893-5-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260918T113000Z
+DTEND:20260918T134500Z
+SUMMARY;LANGUAGE=fr:Programmation objets C++ - OPT1 L3 INFO - Option 1 : programmation objet - M. Duhamel Christophe - CM/TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:Option : Programmation objets C++ - OPT1 L3 INFO\nMatière : Option 1 : programmation objet\nEnseignant : M. Duhamel Christophe\nSalle : INFO-A103 TP ST\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Programmation objets C++ - OPT1 L3 INFO<br/>Matière : Option 1 : programmation objet<br/>Enseignant : M. Duhamel Christophe<br/>Salle : INFO-A103 TP ST<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212821Z
+UID:Cours-1366893-6-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20260925T113000Z
+DTEND:20260925T134500Z
+SUMMARY;LANGUAGE=fr:Programmation objets C++ - OPT1 L3 INFO - Option 1 : programmation objet - M. Duhamel Christophe - CM/TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:Option : Programmation objets C++ - OPT1 L3 INFO\nMatière : Option 1 : programmation objet\nEnseignant : M. Duhamel Christophe\nSalle : INFO-A103 TP ST\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Programmation objets C++ - OPT1 L3 INFO<br/>Matière : Option 1 : programmation objet<br/>Enseignant : M. Duhamel Christophe<br/>Salle : INFO-A103 TP ST<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212821Z
+UID:Cours-1366893-7-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261002T113000Z
+DTEND:20261002T134500Z
+SUMMARY;LANGUAGE=fr:Programmation objets C++ - OPT1 L3 INFO - Option 1 : programmation objet - M. Duhamel Christophe - CM/TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:Option : Programmation objets C++ - OPT1 L3 INFO\nMatière : Option 1 : programmation objet\nEnseignant : M. Duhamel Christophe\nSalle : INFO-A103 TP ST\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Programmation objets C++ - OPT1 L3 INFO<br/>Matière : Option 1 : programmation objet<br/>Enseignant : M. Duhamel Christophe<br/>Salle : INFO-A103 TP ST<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212821Z
+UID:Cours-1366893-8-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261009T113000Z
+DTEND:20261009T134500Z
+SUMMARY;LANGUAGE=fr:Programmation objets C++ - OPT1 L3 INFO - Option 1 : programmation objet - M. Duhamel Christophe - CM/TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:Option : Programmation objets C++ - OPT1 L3 INFO\nMatière : Option 1 : programmation objet\nEnseignant : M. Duhamel Christophe\nSalle : INFO-A103 TP ST\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Programmation objets C++ - OPT1 L3 INFO<br/>Matière : Option 1 : programmation objet<br/>Enseignant : M. Duhamel Christophe<br/>Salle : INFO-A103 TP ST<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212821Z
+UID:Cours-1366893-9-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261016T113000Z
+DTEND:20261016T134500Z
+SUMMARY;LANGUAGE=fr:Programmation objets C++ - OPT1 L3 INFO - Option 1 : programmation objet - M. Duhamel Christophe - CM/TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:Option : Programmation objets C++ - OPT1 L3 INFO\nMatière : Option 1 : programmation objet\nEnseignant : M. Duhamel Christophe\nSalle : INFO-A103 TP ST\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Programmation objets C++ - OPT1 L3 INFO<br/>Matière : Option 1 : programmation objet<br/>Enseignant : M. Duhamel Christophe<br/>Salle : INFO-A103 TP ST<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212821Z
+UID:Cours-1366893-10-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261023T113000Z
+DTEND:20261023T134500Z
+SUMMARY;LANGUAGE=fr:Programmation objets C++ - OPT1 L3 INFO - Option 1 : programmation objet - M. Duhamel Christophe - CM/TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:Option : Programmation objets C++ - OPT1 L3 INFO\nMatière : Option 1 : programmation objet\nEnseignant : M. Duhamel Christophe\nSalle : INFO-A103 TP ST\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Programmation objets C++ - OPT1 L3 INFO<br/>Matière : Option 1 : programmation objet<br/>Enseignant : M. Duhamel Christophe<br/>Salle : INFO-A103 TP ST<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212821Z
+UID:Cours-1366893-12-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261106T123000Z
+DTEND:20261106T144500Z
+SUMMARY;LANGUAGE=fr:Programmation objets C++ - OPT1 L3 INFO - Option 1 : programmation objet - M. Duhamel Christophe - CM/TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:Option : Programmation objets C++ - OPT1 L3 INFO\nMatière : Option 1 : programmation objet\nEnseignant : M. Duhamel Christophe\nSalle : INFO-A103 TP ST\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Programmation objets C++ - OPT1 L3 INFO<br/>Matière : Option 1 : programmation objet<br/>Enseignant : M. Duhamel Christophe<br/>Salle : INFO-A103 TP ST<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212821Z
+UID:Cours-1366893-13-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261113T123000Z
+DTEND:20261113T144500Z
+SUMMARY;LANGUAGE=fr:Programmation objets C++ - OPT1 L3 INFO - Option 1 : programmation objet - M. Duhamel Christophe - CM/TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:Option : Programmation objets C++ - OPT1 L3 INFO\nMatière : Option 1 : programmation objet\nEnseignant : M. Duhamel Christophe\nSalle : INFO-A103 TP ST\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Programmation objets C++ - OPT1 L3 INFO<br/>Matière : Option 1 : programmation objet<br/>Enseignant : M. Duhamel Christophe<br/>Salle : INFO-A103 TP ST<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212821Z
+UID:Cours-1366893-14-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261120T123000Z
+DTEND:20261120T144500Z
+SUMMARY;LANGUAGE=fr:Programmation objets C++ - OPT1 L3 INFO - Option 1 : programmation objet - M. Duhamel Christophe - CM/TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:Option : Programmation objets C++ - OPT1 L3 INFO\nMatière : Option 1 : programmation objet\nEnseignant : M. Duhamel Christophe\nSalle : INFO-A103 TP ST\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Programmation objets C++ - OPT1 L3 INFO<br/>Matière : Option 1 : programmation objet<br/>Enseignant : M. Duhamel Christophe<br/>Salle : INFO-A103 TP ST<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212821Z
+UID:Cours-1366893-15-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261127T123000Z
+DTEND:20261127T144500Z
+SUMMARY;LANGUAGE=fr:Programmation objets C++ - OPT1 L3 INFO - Option 1 : programmation objet - M. Duhamel Christophe - CM/TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:Option : Programmation objets C++ - OPT1 L3 INFO\nMatière : Option 1 : programmation objet\nEnseignant : M. Duhamel Christophe\nSalle : INFO-A103 TP ST\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Programmation objets C++ - OPT1 L3 INFO<br/>Matière : Option 1 : programmation objet<br/>Enseignant : M. Duhamel Christophe<br/>Salle : INFO-A103 TP ST<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212821Z
+UID:Cours-1366893-16-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261204T123000Z
+DTEND:20261204T144500Z
+SUMMARY;LANGUAGE=fr:Programmation objets C++ - OPT1 L3 INFO - Option 1 : programmation objet - M. Duhamel Christophe - CM/TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:Option : Programmation objets C++ - OPT1 L3 INFO\nMatière : Option 1 : programmation objet\nEnseignant : M. Duhamel Christophe\nSalle : INFO-A103 TP ST\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Programmation objets C++ - OPT1 L3 INFO<br/>Matière : Option 1 : programmation objet<br/>Enseignant : M. Duhamel Christophe<br/>Salle : INFO-A103 TP ST<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212821Z
+UID:Cours-1366893-17-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261211T123000Z
+DTEND:20261211T144500Z
+SUMMARY;LANGUAGE=fr:Programmation objets C++ - OPT1 L3 INFO - Option 1 : programmation objet - M. Duhamel Christophe - CM/TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:Option : Programmation objets C++ - OPT1 L3 INFO\nMatière : Option 1 : programmation objet\nEnseignant : M. Duhamel Christophe\nSalle : INFO-A103 TP ST\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Programmation objets C++ - OPT1 L3 INFO<br/>Matière : Option 1 : programmation objet<br/>Enseignant : M. Duhamel Christophe<br/>Salle : INFO-A103 TP ST<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+LAST-MODIFIED:20260716T212821Z
+UID:Cours-1366893-18-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART:20261218T123000Z
+DTEND:20261218T144500Z
+SUMMARY;LANGUAGE=fr:Programmation objets C++ - OPT1 L3 INFO - Option 1 : programmation objet - M. Duhamel Christophe - CM/TP
+LOCATION;LANGUAGE=fr:INFO-A103 TP ST
+DESCRIPTION;LANGUAGE=fr:Option : Programmation objets C++ - OPT1 L3 INFO\nMatière : Option 1 : programmation objet\nEnseignant : M. Duhamel Christophe\nSalle : INFO-A103 TP ST\nType : CM/TP\n
+X-ALT-DESC;FMTTYPE=text/html:Option : Programmation objets C++ - OPT1 L3 INFO<br/>Matière : Option 1 : programmation objet<br/>Enseignant : M. Duhamel Christophe<br/>Salle : INFO-A103 TP ST<br/>Type : CM/TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+UID:Ferie-2179-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260901
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+UID:Ferie-2180-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261102
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+UID:Ferie-2181-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+UID:Ferie-2182-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20270104
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+UID:Ferie-2183-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270301
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+UID:Ferie-2184-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270330
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+UID:Ferie-2185-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270503
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+UID:Ferie-2186-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270510
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+UID:Ferie-2187-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270518
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260902T151237Z
+UID:Ferie-2188-ST-L3_-_INFORMATIQUE-Index-Education
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270815
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+END:VCALENDAR
