@@ -2,8 +2,8 @@ name: 🔄 Mise à jour automatique de l'emploi du temps
 
 on:
   schedule:
-    - cron: '0 * * * *' # Toutes les heures
-  workflow_dispatch: # Permet aussi de lancer manuellement
+    - cron: "0 * * * *" # Toutes les heures
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,13 +16,9 @@ jobs:
       - name: 🛎️ Cloner le dépôt
         uses: actions/checkout@v4
 
-      - name: 📁 Créer le répertoire si nécessaire
+      - name: 📥 Télécharger le fichier ICS
         run: |
-          mkdir -p src/emploi-du-temps
-
-      - name: 📥 Télécharger du fichier ICS 
-        run: |
-          echo "📥 Téléchargement de l'emploi du temps..."
+          echo "Téléchargement de l'emploi du temps..."
           curl -L -o emploi-du-temps.ics \
             "https://hplanning.univ-lehavre.fr/Telechargements/ical/Edt_ST_L3___INFORMATIQUE.ics?version=2022.0.5.0&idICal=878F4702AFE5022EFD588352AC8AC291&param=643d5b312e2e36325d2666683d3126663d3131303030"
 
